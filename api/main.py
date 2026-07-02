@@ -31,7 +31,7 @@ def get_prediction(data:DevisInput):
     - Niveau design : {data.niveau_design}
     - SEO : {'Oui' if data.seo else 'Non'}
     - E-commerce : {'Oui' if data.ecommerce else 'Non'}
-    - Multilingue : {'Oui' if data.multilingue else 'Non'}
+
     Le modèle ML a estimé le prix à {prix:,.0f} MAD.
     En 3-4 phrases professionnelles en français :
     1. Explique pourquoi ce prix est justifié
