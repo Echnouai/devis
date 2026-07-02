@@ -20,7 +20,7 @@ client_groq = Groq(
 @app.post("/predict",response_model=DevisOutput)
 def get_prediction(data:DevisInput):
     prix=predict(data.dict())
-    fourchette_min=round(prix*0,85,2)
+    fourchette_min=round(prix*0.85,2)
     fourchette_max=round(prix*1.15,2)
     
     prompt=f"""
@@ -38,12 +38,22 @@ def get_prediction(data:DevisInput):
     2. Mentionne les options qui font monter le coût
     3. Donne un conseil au client
     """
-    response=client_groq.chat.completions.create(model="llama-3.3-70b-versatile",
-                                                 messages=[{"role":"user","content":prompt}]
-    
-                                                 )
-    #extraire texte de ka reponse
-    explication=response.choices[0].message.content
+    try:
+      response = client_groq.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+
+      explication = response.choices[0].message.content
+
+    except Exception as e:
+      print("Groq error:", e)
+      raise
     
     save_devis(data.type_site,data.nb_pages,prix)
     
