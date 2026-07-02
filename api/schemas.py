@@ -6,7 +6,7 @@ class DevisInput(BaseModel):
     niveau_design:str
     seo:int
     ecommerce:int
-    paiment_en_ligne:int
+    paiement_en_ligne:int
     animations:int
     hebergement:int
     nom_domaine:int
