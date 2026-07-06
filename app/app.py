@@ -1,104 +1,74 @@
 import streamlit as st
 import requests
 from reportlab.lib.pagesizes import A4
-from reportlab.platypus import (
-    SimpleDocTemplate,
-    Paragraph,
-    Spacer,
-    Table,
-    TableStyle,
-    HRFlowable
-    )
-from reportlab.lib.styles import getSampleStyleSheet,ParagraphStyle
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import cm
 from datetime import datetime
 import io
 
-#page configuration
-st.set_page_config(
-    page_title="Estimation Devis",
-    page_icon=":bar_chart:",
-    layout="centered",
-)
+st.set_page_config(page_title="Estimation Devis", page_icon="💼", layout="centered")
 st.title("IA d'estimation automatique de devis")
 st.markdown("Remplissez les critères du projet pour obtenir une estimation instantanée.")
 
-#creation de formulaire
 with st.form("devis_form"):
-    col1,col2=st.columns(2)
-    with col1:
-        type_site=st.selectbox(
-            "Type de site web",
-            ["Site vitrine", "Site e-commerce", "Landing page"]
-        )
-        nb_pages=st.number_input(
-            "Nombre de pages",
-            min_value=1,
-            max_value=100,
-            value=10
-        )
-        niveau_desin=st.selectbox(
-            "Niveau de design",
-            ["Basique", "Standard", "Premium"]
-        )
-        delai_jours=st.number_input(
-            "Délai de livraison (en jours)",
-            min_value=1,
-            max_value=365,
-            value=30
-        )
-        experience_client=st.selectbox(
-            "Expérience client",
-            ["New Client", "Returning Client", "VIP Client"]
-        )
-        
-    with col2:
-        seo=st.checkbox("SEO")
-        ecommerce=st.checkbox("E-commerce")
-        paiement_en_ligne=st.checkbox("Paiement en ligne")
-        animation=st.checkbox("Animation")
-        hebergement=st.checkbox("Hébergement")
-        nom_domaine=st.checkbox("Nom de domaine")
-        multilingue=st.checkbox("Multilingue")
-        
-    
-    submitted=st.form_submit_button("Estimer le prix", use_container_width=True)
+    col1, col2 = st.columns(2)
 
-#appeler l api et afficher le résultat
+    with col1:
+        type_site = st.selectbox("Type de site", ["Site Vitrine", "E-commerce", "Landing Page"])
+        nb_pages = st.number_input("Nombre de pages", min_value=1, max_value=100, value=10)
+        niveau_design = st.selectbox("Niveau de design", ["Basic", "Standard", "Premium"])
+        delai_jours = st.number_input("Délai (jours)", min_value=7, max_value=180, value=30)
+        experience_client = st.selectbox("Type de client", ["New Client", "Returning Client", "VIP Client"])
+
+    with col2:
+        seo = st.checkbox("SEO")
+        ecommerce = st.checkbox("E-commerce")
+        paiement_en_ligne = st.checkbox("Paiement en ligne")
+        animations = st.checkbox("Animations")
+        hebergement = st.checkbox("Hébergement")
+        nom_domaine = st.checkbox("Nom de domaine")
+        multilingue = st.checkbox("Multilingue")
+
+    submitted = st.form_submit_button("Estimer le prix", use_container_width=True)
 if submitted:
-    payload={
+    payload = {
         "type_site": type_site,
         "nb_pages": nb_pages,
-        "niveau_desin": niveau_desin,
-        "delai_jours": delai_jours,
-        "experience_client": experience_client,
-        "seo":int(seo),
+        "niveau_design": niveau_design,
+        "seo": int(seo),
         "ecommerce": int(ecommerce),
         "paiement_en_ligne": int(paiement_en_ligne),
-        "animation": int(animation),
+        "animations": int(animations),
         "hebergement": int(hebergement),
         "nom_domaine": int(nom_domaine),
-        "multilingue": int(multilingue)
+        "multilingue": int(multilingue),
+        "delai_jours": delai_jours,
+        "experience_client": experience_client
     }
-    with st.spinner("Estimation en cours..."):
-        response=requests.post("http://127.0.0.1:8000/predict", json=payload)
-        if response.status_code == 200:
-            result=response.json()
-            st.success("Estimation terminée !")
-            col1,col2,col3=st.columns(3)
-            col1.metric("Prix estimé", f"{result['prix_estime']: ,.0f} MAD")
-            col2.metric("Minimum", f"{result['fourchette_min']: ,.0f} MAD")
-            col3.metric("Maximum", f"{result['fourchette_max']: ,.0f} MAD")
-        
-            st.markdown("##########Explication")
-            st.info(result['explication'])
-            #stocker le resultat pour PDF
-            st.session_state['result']=result
-            st.session_state['payload']=payload
-        else:
-            st.error("Erreur lors de l'appel à l'API.")
-#creation de pdf
+
+    with st.spinner("Calcul en cours..."):
+        response = requests.post("http://127.0.0.1:8000/predict", json=payload)
+
+    if response.status_code == 200:
+        result = response.json()
+
+        st.success("Estimation générée avec succès !")
+
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Prix estimé", f"{result['prix_estime']:,.0f} MAD")
+        col2.metric("Minimum", f"{result['fourchette_min']:,.0f} MAD")
+        col3.metric("Maximum", f"{result['fourchette_max']:,.0f} MAD")
+
+        st.markdown("### Explication")
+        st.info(result["explication"])
+
+        # Stocker le résultat pour le PDF
+        st.session_state["result"] = result
+        st.session_state["payload"] = payload
+    else:
+        st.error("Erreur lors de l'appel à l'API.")
 if "result" in st.session_state:
     result = st.session_state["result"]
     payload = st.session_state["payload"]
