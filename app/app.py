@@ -166,3 +166,22 @@ if "result" in st.session_state:
         mime="application/pdf",
         use_container_width=True
     )
+    #Historique des devis
+    st.markdown("-----")
+    st.markdown("### Historique des devis")
+    
+    if st.button("Afficher l'historique"):
+        with st.spinner("Chargement de l'historique..."):
+            response_history= requests.get("http://127.0.0.1:8000/history")
+            
+            if response_history.status_code == 200:
+                historique=response_history.json()
+                if len(historique) == 0:
+                    st.info("Aucun devis dans l'historique.")
+                else:
+                    import pandas as pd
+                    df_history = pd.DataFrame(historique, columns=["ID", "Type de site", "Nb pages", "Prix estimé (MAD)", "Date"])
+                    st.dataframe(df_history,use_container_width=True)
+            else:
+                st.error("Erreur lors de la récupération de l'historique.")
+                
