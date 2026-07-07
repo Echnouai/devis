@@ -63,12 +63,39 @@ if submitted:
 
         st.markdown("### Explication")
         st.info(result["explication"])
-
         # Stocker le résultat pour le PDF
         st.session_state["result"] = result
         st.session_state["payload"] = payload
+        
+        # ── SHAP ──────────────────────────────────
+        st.markdown("### Pourquoi ce prix ?")
+    
+        shap_vals = result["shap_values"]
+        feature_names = result["feature_names"]
+    
+        import pandas as pd
+        import matplotlib.pyplot as plt
+    
+        df_shap = pd.DataFrame({
+        "Feature": feature_names,
+        "Impact": shap_vals
+        }).sort_values("Impact", key=abs, ascending=True)
+
+        fig, ax = plt.subplots(figsize=(8, 5))
+        colors_shap = ["#E85D30" if v > 0 else "#4a90d9" for v in df_shap["Impact"]]
+        ax.barh(df_shap["Feature"], df_shap["Impact"], color=colors_shap)
+        ax.axvline(0, color="black", linewidth=0.8)
+        ax.set_title("Impact de chaque critère sur le prix")
+        ax.set_xlabel("Impact (MAD)")
+        plt.tight_layout()
+        st.pyplot(fig)
+
+        st.caption("🔴 Rouge = augmente le prix  |  🔵 Bleu = diminue le prix")    
+        
     else:
         st.error("Erreur lors de l'appel à l'API.")
+
+    
 if "result" in st.session_state:
     result = st.session_state["result"]
     payload = st.session_state["payload"]

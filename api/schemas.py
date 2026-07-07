@@ -17,4 +17,6 @@ class DevisOutput(BaseModel):
     prix_estime:float
     fourchette_min:float
     fourchette_max:float
-    explication:str     
+    explication:str    
+    shap_values:list
+    feature_names:list 

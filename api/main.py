@@ -19,7 +19,8 @@ client_groq = Groq(
 
 @app.post("/predict",response_model=DevisOutput)
 def get_prediction(data:DevisInput):
-    prix=predict(data.dict())
+    result=predict(data.dict())
+    prix=result["prix"]
     fourchette_min=round(prix*0.85,2)
     fourchette_max=round(prix*1.15,2)
     
@@ -60,7 +61,9 @@ def get_prediction(data:DevisInput):
     return DevisOutput(
         prix_estime=prix,fourchette_min=fourchette_min,
         fourchette_max=fourchette_max,
-        explication=explication
+        explication=explication,
+        shap_values=result["shap_values"],
+        feature_names=result["feature_names"]
     )
     
 @app.get("/history")
