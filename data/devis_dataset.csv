@@ -1,1001 +1,1001 @@
 id,type_site,nb_pages,niveau_design,seo,ecommerce,paiement_en_ligne,animations,hebergement,nom_domaine,delai_jours,experience_client,prix_final
-1,Landing Page,2,Standard,0,0,0,0,0,1,9,New Client,3900
-2,Site Vitrine,5,Premium,1,0,0,1,1,0,33,New Client,7100
-3,Site Vitrine,13,Standard,1,0,0,0,0,1,12,New Client,7200
-4,Site Vitrine,5,Premium,1,0,0,0,1,0,30,New Client,5900
-5,Landing Page,2,Basic,1,0,0,0,1,0,13,New Client,4200
-6,E-commerce,23,Premium,1,1,1,0,1,1,41,Returning Client,10000
-7,Site Vitrine,19,Basic,1,0,0,0,0,0,10,New Client,7000
-8,Landing Page,3,Basic,1,0,0,0,1,0,11,New Client,4100
-9,Landing Page,2,Basic,0,0,0,0,0,1,15,New Client,2700
-10,Site Vitrine,5,Standard,0,1,1,1,0,0,59,New Client,9600
-11,Site Vitrine,14,Standard,0,0,0,0,1,1,12,Returning Client,6100
-12,Site Vitrine,11,Premium,0,0,0,1,1,1,48,New Client,7100
-13,Site Vitrine,15,Standard,1,0,0,0,1,1,33,New Client,7600
-14,Site Vitrine,10,Premium,1,0,0,0,1,0,11,Returning Client,8200
-15,E-commerce,11,Basic,1,1,1,1,1,0,62,New Client,10000
-16,Site Vitrine,9,Premium,1,0,0,0,1,0,47,Returning Client,6500
-17,Site Vitrine,16,Basic,1,0,0,0,0,1,20,New Client,5900
-18,Site Vitrine,10,Basic,0,0,0,1,1,1,45,New Client,5800
-19,Landing Page,2,Basic,1,0,0,0,0,1,27,New Client,3700
-20,Site Vitrine,12,Standard,0,0,0,1,0,1,34,New Client,6400
-21,Site Vitrine,9,Basic,0,0,0,0,0,1,57,New Client,4700
-22,Site Vitrine,6,Basic,0,0,0,0,1,1,39,New Client,4900
-23,Landing Page,3,Basic,1,0,0,1,1,0,25,Returning Client,4000
-24,Site Vitrine,17,Basic,1,0,1,0,0,0,23,New Client,6500
-25,Landing Page,1,Standard,1,0,1,1,1,0,28,Returning Client,4700
-26,Site Vitrine,12,Standard,0,0,0,0,0,1,21,New Client,6100
-27,E-commerce,16,Premium,1,1,1,0,1,0,83,New Client,10000
-28,Site Vitrine,6,Basic,0,0,0,1,1,1,15,Returning Client,5600
-29,Site Vitrine,14,Standard,0,0,0,0,0,1,46,Returning Client,4600
-30,Site Vitrine,16,Premium,1,0,0,0,1,0,40,New Client,7300
-31,Landing Page,2,Basic,1,0,0,1,0,0,17,New Client,3900
-32,Site Vitrine,18,Basic,1,0,0,1,0,1,54,New Client,6000
-33,Landing Page,3,Basic,0,0,0,1,1,1,14,New Client,4900
-34,E-commerce,29,Standard,1,1,1,1,1,0,36,New Client,10000
-35,Site Vitrine,7,Standard,0,1,1,0,1,0,49,Returning Client,8100
-36,Landing Page,3,Basic,0,0,0,0,0,0,19,VIP Client,2400
-37,Site Vitrine,5,Basic,1,0,0,1,1,0,12,Returning Client,5900
-38,Site Vitrine,19,Standard,0,0,0,1,0,1,19,VIP Client,6600
-39,Landing Page,1,Basic,0,0,0,1,1,1,28,VIP Client,3000
-40,Site Vitrine,9,Basic,0,1,1,1,0,1,47,New Client,8300
-41,Site Vitrine,12,Basic,1,1,1,0,1,1,38,New Client,7800
-42,Site Vitrine,11,Standard,0,0,0,0,1,0,43,New Client,5400
-43,Site Vitrine,13,Basic,1,0,0,0,1,1,18,New Client,6300
-44,Site Vitrine,12,Premium,1,0,0,1,1,0,57,New Client,7700
-45,Site Vitrine,15,Premium,1,0,0,0,1,1,45,New Client,8100
-46,E-commerce,17,Standard,1,1,1,1,1,1,63,New Client,10000
-47,Landing Page,3,Standard,0,0,0,1,0,1,23,New Client,4800
-48,Landing Page,1,Basic,1,0,0,0,1,0,10,New Client,3500
-49,Site Vitrine,19,Premium,1,0,0,1,1,0,17,New Client,6800
-50,Site Vitrine,14,Basic,1,1,1,1,1,0,26,New Client,9600
-51,Landing Page,2,Standard,1,0,0,1,1,1,28,New Client,4100
-52,Landing Page,1,Basic,0,0,0,0,0,0,18,New Client,2500
-53,Site Vitrine,14,Basic,0,0,0,1,1,1,49,New Client,6400
-54,Landing Page,3,Basic,1,0,0,1,0,1,17,New Client,4300
-55,Landing Page,3,Standard,0,0,0,1,0,1,8,New Client,5100
-56,Site Vitrine,13,Standard,1,0,0,1,1,0,15,New Client,6900
-57,Site Vitrine,8,Basic,1,0,0,1,1,1,40,Returning Client,4700
-58,Site Vitrine,19,Standard,1,0,0,0,0,1,53,Returning Client,7500
-59,Site Vitrine,8,Premium,1,0,0,1,1,1,27,New Client,6500
-60,Site Vitrine,11,Standard,1,0,0,0,0,1,43,New Client,5700
-61,Landing Page,2,Standard,1,0,0,0,1,0,16,Returning Client,3800
-62,Site Vitrine,10,Basic,0,1,1,0,1,1,30,New Client,8500
-63,Landing Page,2,Basic,1,0,0,0,0,0,30,New Client,3100
-64,E-commerce,15,Standard,1,1,1,0,1,0,59,Returning Client,10000
-65,Site Vitrine,19,Premium,1,0,0,0,1,1,41,New Client,8500
-66,E-commerce,34,Standard,1,1,1,0,0,0,31,New Client,10000
-67,Site Vitrine,20,Basic,0,0,0,0,0,1,12,New Client,8600
-68,E-commerce,36,Standard,1,1,1,1,1,1,43,Returning Client,10000
-69,Landing Page,3,Basic,0,0,0,1,1,0,29,New Client,3200
-70,Site Vitrine,20,Standard,0,1,1,0,1,1,31,Returning Client,8100
-71,Site Vitrine,18,Premium,1,0,0,0,1,0,55,New Client,8000
-72,E-commerce,39,Basic,1,1,1,1,1,1,26,New Client,10000
-73,Site Vitrine,8,Basic,1,0,0,0,1,1,17,New Client,5900
-74,Site Vitrine,7,Standard,0,0,0,0,0,0,37,New Client,5100
-75,Site Vitrine,4,Basic,0,0,0,0,1,1,50,New Client,5900
-76,E-commerce,42,Premium,1,1,1,1,1,0,75,New Client,10000
-77,Site Vitrine,15,Standard,0,0,0,0,0,1,27,New Client,6400
-78,Landing Page,3,Basic,0,0,0,0,0,1,23,New Client,3500
-79,Site Vitrine,18,Premium,1,0,0,1,1,1,55,New Client,7600
-80,E-commerce,16,Standard,1,1,1,1,0,0,61,New Client,10000
-81,Site Vitrine,6,Standard,0,0,0,0,1,1,23,Returning Client,4700
-82,Site Vitrine,4,Premium,1,0,0,0,0,0,20,New Client,7200
-83,Site Vitrine,16,Standard,0,0,0,0,0,1,57,New Client,7000
-84,Site Vitrine,16,Basic,1,0,0,1,1,0,29,New Client,8200
-85,E-commerce,22,Standard,0,1,1,0,1,0,49,New Client,10000
-86,Site Vitrine,20,Basic,0,0,0,1,1,0,29,Returning Client,5900
-87,E-commerce,46,Premium,0,1,1,0,0,0,38,Returning Client,10000
-88,Site Vitrine,6,Basic,0,0,0,0,0,1,59,Returning Client,5200
-89,Site Vitrine,16,Basic,1,1,1,0,0,1,48,New Client,8400
-90,Site Vitrine,15,Premium,0,0,0,1,1,1,49,New Client,7900
-91,E-commerce,37,Basic,1,1,1,1,0,1,79,Returning Client,10000
-92,Site Vitrine,5,Standard,1,0,0,0,0,0,56,New Client,5000
-93,Site Vitrine,15,Standard,1,1,1,1,1,1,34,Returning Client,10000
-94,Site Vitrine,18,Premium,1,1,1,1,1,0,56,New Client,10000
-95,Site Vitrine,15,Basic,1,0,0,1,0,0,33,New Client,4900
-96,E-commerce,49,Standard,1,1,1,1,0,1,29,New Client,10000
-97,E-commerce,37,Premium,0,1,1,1,1,0,61,New Client,10000
-98,E-commerce,28,Premium,1,1,1,0,0,1,38,New Client,10000
-99,Site Vitrine,20,Basic,0,0,0,0,0,1,29,Returning Client,4900
-100,Landing Page,1,Basic,0,0,0,1,0,1,7,New Client,3600
-101,Site Vitrine,8,Standard,1,0,0,0,1,0,43,Returning Client,4500
-102,Site Vitrine,14,Standard,1,0,0,0,1,1,54,New Client,6600
-103,Landing Page,2,Standard,1,0,0,0,0,1,9,New Client,4300
-104,Site Vitrine,13,Premium,1,0,0,0,1,0,14,New Client,9400
-105,E-commerce,33,Standard,1,1,1,0,0,0,39,New Client,10000
-106,Landing Page,2,Basic,0,0,0,0,0,0,30,New Client,2700
-107,Landing Page,1,Basic,0,0,0,0,1,1,9,Returning Client,3300
-108,Site Vitrine,11,Basic,1,0,0,0,1,0,27,New Client,5500
-109,E-commerce,32,Premium,1,1,1,1,1,0,72,Returning Client,10000
-110,Site Vitrine,8,Basic,0,0,0,0,0,0,37,Returning Client,5000
-111,Site Vitrine,12,Basic,0,0,0,1,1,1,14,Returning Client,6100
-112,Site Vitrine,20,Standard,1,0,0,0,1,0,47,Returning Client,6200
-113,Site Vitrine,13,Standard,0,0,0,0,1,0,50,New Client,6200
-114,Site Vitrine,17,Basic,1,0,0,0,0,0,39,New Client,5200
-115,Site Vitrine,10,Basic,1,0,0,0,1,1,14,Returning Client,5400
-116,Landing Page,3,Basic,1,0,0,0,0,0,29,New Client,3000
-117,Landing Page,1,Standard,1,0,0,0,0,1,13,Returning Client,4700
-118,E-commerce,26,Premium,1,1,1,0,0,0,27,New Client,10000
-119,Site Vitrine,7,Standard,1,0,0,0,0,0,56,Returning Client,4800
-120,Site Vitrine,20,Basic,1,0,0,0,1,0,58,New Client,6500
-121,Site Vitrine,19,Basic,0,0,0,0,0,0,48,Returning Client,4700
-122,Landing Page,3,Basic,0,0,0,0,0,1,23,Returning Client,2400
-123,Landing Page,2,Basic,1,0,0,0,0,1,7,New Client,3500
-124,Landing Page,3,Basic,1,0,0,0,0,1,19,New Client,3300
-125,Site Vitrine,8,Premium,1,0,0,0,0,0,49,New Client,6300
-126,Landing Page,2,Premium,1,0,0,1,1,1,26,New Client,5600
-127,Site Vitrine,20,Basic,0,0,0,1,0,1,20,New Client,5100
-128,Site Vitrine,4,Basic,0,0,0,0,1,0,49,New Client,5800
-129,Site Vitrine,12,Basic,1,0,0,0,1,1,23,New Client,5100
-130,Site Vitrine,5,Basic,0,0,0,0,1,0,19,Returning Client,5300
-131,Site Vitrine,18,Basic,0,1,1,0,0,1,15,New Client,10000
-132,Site Vitrine,4,Basic,0,0,0,0,1,1,34,New Client,5000
-133,Site Vitrine,9,Basic,1,0,0,1,0,0,49,New Client,6800
-134,Site Vitrine,18,Standard,1,0,0,1,1,1,59,New Client,7700
-135,Site Vitrine,19,Basic,0,0,0,1,1,0,18,New Client,5900
-136,Site Vitrine,19,Basic,0,0,0,1,0,0,28,New Client,5800
-137,E-commerce,35,Standard,1,1,1,1,0,0,52,New Client,10000
-138,E-commerce,44,Standard,1,1,1,1,1,0,88,New Client,10000
-139,E-commerce,21,Premium,1,1,1,1,1,0,43,New Client,10000
-140,Site Vitrine,4,Standard,1,0,0,1,1,1,33,Returning Client,5500
-141,Landing Page,3,Standard,1,0,0,0,0,0,25,New Client,3700
-142,Site Vitrine,14,Basic,0,0,1,0,1,1,32,Returning Client,6000
-143,Site Vitrine,5,Premium,1,0,0,1,1,0,21,Returning Client,7400
-144,Site Vitrine,6,Premium,0,1,1,0,1,0,33,New Client,9400
-145,E-commerce,23,Premium,1,1,1,0,0,1,62,New Client,10000
-146,E-commerce,33,Standard,0,1,1,1,0,1,47,New Client,10000
-147,Landing Page,2,Basic,0,0,0,1,1,0,16,New Client,4300
-148,Site Vitrine,4,Standard,1,0,1,1,1,0,46,Returning Client,7100
-149,Landing Page,1,Basic,0,0,0,0,1,0,27,VIP Client,2300
-150,Landing Page,3,Standard,1,0,0,0,0,1,20,Returning Client,3600
-151,Site Vitrine,18,Basic,0,0,0,1,1,1,48,New Client,7200
-152,Site Vitrine,9,Standard,1,0,0,1,0,0,35,Returning Client,6900
-153,Site Vitrine,13,Basic,1,0,1,1,1,1,14,VIP Client,6300
-154,Landing Page,1,Basic,0,0,0,0,0,1,15,New Client,2700
-155,Site Vitrine,5,Standard,1,0,0,1,0,0,42,New Client,5500
-156,Landing Page,3,Basic,0,0,0,0,0,0,11,Returning Client,3100
-157,Site Vitrine,8,Basic,0,0,0,0,1,1,21,New Client,5300
-158,E-commerce,23,Standard,1,1,1,0,1,1,19,Returning Client,10000
-159,Site Vitrine,10,Basic,1,0,0,0,0,1,49,Returning Client,5300
-160,Landing Page,3,Standard,1,0,0,0,0,1,8,Returning Client,3900
-161,Site Vitrine,16,Basic,0,1,1,0,0,1,51,New Client,9400
-162,Site Vitrine,17,Standard,0,0,0,0,1,1,55,Returning Client,6500
-163,Site Vitrine,7,Premium,1,0,0,0,1,0,10,VIP Client,7900
-164,Site Vitrine,5,Basic,1,1,1,1,0,1,52,New Client,9000
-165,E-commerce,49,Premium,1,1,1,1,1,0,81,Returning Client,10000
-166,Site Vitrine,20,Standard,1,0,0,0,0,1,41,New Client,6900
-167,Site Vitrine,20,Basic,0,0,0,0,0,1,58,New Client,5600
-168,E-commerce,47,Standard,1,1,1,1,1,1,70,New Client,10000
-169,E-commerce,29,Standard,1,1,1,0,1,0,50,New Client,10000
-170,Site Vitrine,11,Basic,0,0,0,0,0,1,46,VIP Client,4500
-171,Site Vitrine,19,Standard,1,0,0,1,0,1,34,New Client,8000
-172,Site Vitrine,19,Standard,1,0,0,0,1,1,58,New Client,6400
-173,E-commerce,17,Basic,0,1,1,0,1,1,35,New Client,10000
-174,Site Vitrine,10,Standard,1,0,0,1,0,0,44,New Client,6600
-175,Site Vitrine,5,Basic,0,0,0,1,0,0,19,Returning Client,4500
-176,Site Vitrine,18,Basic,1,0,0,1,0,0,13,Returning Client,6200
-177,Site Vitrine,13,Standard,1,0,0,0,0,1,48,Returning Client,4600
-178,Site Vitrine,19,Basic,0,0,0,0,1,1,11,New Client,5700
-179,Site Vitrine,8,Basic,1,0,0,1,1,1,36,New Client,4700
-180,Site Vitrine,9,Standard,0,0,0,0,0,1,40,Returning Client,4800
-181,E-commerce,40,Standard,1,1,1,1,0,1,58,Returning Client,10000
-182,Site Vitrine,16,Basic,1,0,0,0,0,0,10,New Client,7300
-183,Site Vitrine,15,Basic,1,0,0,0,0,0,57,New Client,4400
-184,E-commerce,45,Standard,1,1,1,1,0,1,21,New Client,10000
-185,Site Vitrine,4,Premium,0,0,1,1,1,0,29,New Client,7700
-186,E-commerce,47,Premium,1,1,1,0,1,0,62,New Client,10000
-187,Landing Page,2,Standard,1,0,0,1,0,0,24,New Client,4600
-188,Site Vitrine,12,Premium,0,0,0,0,0,1,49,New Client,7100
-189,Landing Page,1,Standard,1,0,0,0,1,1,8,New Client,4300
-190,Landing Page,1,Basic,1,0,0,0,1,0,26,New Client,3000
-191,Site Vitrine,16,Premium,1,0,0,1,0,0,57,New Client,8900
-192,Site Vitrine,11,Premium,1,0,0,1,1,0,16,Returning Client,7600
-193,Landing Page,1,Basic,1,0,0,0,0,1,25,New Client,2700
-194,E-commerce,36,Premium,1,1,1,1,1,0,45,New Client,10000
-195,E-commerce,28,Standard,1,1,1,0,0,0,37,Returning Client,10000
-196,Site Vitrine,9,Basic,1,0,0,0,1,1,56,New Client,5500
-197,Site Vitrine,6,Standard,1,0,0,0,0,0,43,New Client,5300
-198,E-commerce,44,Premium,1,1,1,1,0,0,24,New Client,10000
-199,Site Vitrine,14,Standard,0,0,0,0,1,1,37,Returning Client,6800
-200,Site Vitrine,15,Basic,1,1,1,0,0,0,43,Returning Client,7300
-201,Site Vitrine,7,Standard,0,0,0,0,0,0,32,VIP Client,4300
-202,Landing Page,2,Basic,1,0,0,0,1,0,17,New Client,4300
-203,Landing Page,2,Basic,1,0,0,1,1,1,16,New Client,4300
-204,Landing Page,2,Basic,1,0,0,1,1,1,26,New Client,4900
-205,Landing Page,1,Standard,1,0,0,0,0,1,25,New Client,3400
-206,Landing Page,2,Standard,1,0,0,1,1,0,24,New Client,4900
-207,Landing Page,3,Premium,0,0,0,1,1,1,9,Returning Client,5400
-208,Site Vitrine,19,Basic,0,0,0,0,1,1,47,New Client,7800
-209,Site Vitrine,15,Standard,1,1,1,1,1,0,33,Returning Client,10000
-210,Landing Page,3,Basic,1,0,0,0,0,1,18,New Client,3500
-211,E-commerce,22,Premium,1,1,1,1,0,0,27,VIP Client,10000
-212,Site Vitrine,14,Standard,1,0,0,1,0,1,34,New Client,5900
-213,Site Vitrine,11,Standard,1,0,0,1,0,0,13,New Client,7400
-214,Site Vitrine,14,Basic,1,0,0,0,1,1,14,New Client,8300
-215,Site Vitrine,19,Standard,0,0,0,1,0,0,60,New Client,6900
-216,E-commerce,23,Standard,0,1,1,1,0,1,23,VIP Client,10000
-217,Site Vitrine,14,Standard,1,0,0,0,1,0,31,New Client,6000
-218,Site Vitrine,18,Basic,0,0,0,1,1,1,33,New Client,8100
-219,Site Vitrine,11,Standard,0,1,1,0,1,0,42,New Client,8100
-220,Landing Page,2,Basic,0,0,0,0,0,1,10,New Client,3400
-221,Landing Page,2,Premium,1,0,0,1,1,1,24,Returning Client,5000
-222,E-commerce,17,Basic,1,1,1,1,1,1,34,New Client,10000
-223,Site Vitrine,18,Standard,1,0,0,0,0,0,28,Returning Client,6000
-224,Site Vitrine,12,Premium,1,0,0,0,1,1,27,New Client,6300
-225,Site Vitrine,11,Standard,0,0,0,1,0,1,24,New Client,5700
-226,Site Vitrine,8,Basic,0,0,0,0,1,1,10,New Client,5900
-227,E-commerce,41,Basic,0,1,1,0,1,0,57,VIP Client,10000
-228,Site Vitrine,13,Premium,1,0,0,1,1,1,43,New Client,7700
-229,Site Vitrine,6,Premium,1,0,0,1,1,1,56,Returning Client,7100
-230,Site Vitrine,11,Basic,1,0,1,1,0,1,34,New Client,7900
-231,Site Vitrine,14,Standard,0,0,0,0,1,1,54,New Client,7300
-232,E-commerce,34,Basic,1,1,1,1,1,1,72,New Client,10000
-233,E-commerce,38,Basic,1,1,1,0,1,1,62,New Client,10000
-234,Site Vitrine,10,Standard,1,0,1,1,1,1,31,New Client,7500
-235,Site Vitrine,4,Basic,0,0,0,0,1,1,53,Returning Client,4200
-236,Site Vitrine,16,Basic,1,0,0,0,1,1,32,Returning Client,5500
-237,Landing Page,2,Standard,1,0,0,1,1,0,28,New Client,4300
-238,Landing Page,3,Basic,0,0,0,0,1,1,16,New Client,3400
-239,Landing Page,2,Premium,1,0,0,1,1,0,25,New Client,5600
-240,Site Vitrine,16,Basic,0,0,0,1,1,1,60,New Client,5800
-241,Landing Page,2,Premium,1,0,0,1,0,1,25,New Client,5200
-242,Site Vitrine,6,Standard,0,0,0,0,1,0,20,New Client,6200
-243,Site Vitrine,19,Basic,0,0,0,0,0,0,24,New Client,5100
-244,E-commerce,40,Standard,1,1,1,0,1,1,41,New Client,10000
-245,Site Vitrine,18,Basic,0,0,0,1,1,0,14,New Client,6300
-246,Landing Page,3,Premium,0,0,0,1,1,1,15,New Client,5600
-247,E-commerce,40,Standard,1,1,1,1,0,1,33,Returning Client,10000
-248,Landing Page,1,Basic,1,0,0,1,0,0,30,New Client,3500
-249,Landing Page,2,Standard,0,0,0,0,0,1,14,New Client,3600
-250,E-commerce,37,Basic,0,1,1,0,1,1,66,New Client,10000
-251,Landing Page,2,Basic,0,0,0,1,0,0,8,New Client,4200
-252,Site Vitrine,16,Standard,0,0,0,1,1,0,52,New Client,8100
-253,Site Vitrine,6,Basic,1,0,0,0,0,1,58,New Client,5100
-254,Site Vitrine,14,Basic,1,0,1,0,0,0,54,VIP Client,5400
-255,Site Vitrine,6,Standard,1,0,0,0,0,1,44,New Client,5900
-256,Site Vitrine,16,Basic,0,0,1,1,0,0,19,Returning Client,8200
-257,E-commerce,30,Standard,1,1,1,0,0,1,64,Returning Client,10000
-258,E-commerce,23,Premium,1,1,1,0,1,1,25,New Client,10000
-259,E-commerce,47,Basic,1,1,1,1,1,0,15,New Client,10000
-260,Site Vitrine,7,Basic,1,0,0,0,1,1,11,New Client,5700
-261,Site Vitrine,8,Standard,0,0,0,1,1,0,54,Returning Client,5900
-262,Landing Page,3,Standard,1,0,0,0,1,1,27,New Client,4800
-263,Site Vitrine,10,Basic,1,0,1,0,0,1,23,VIP Client,4500
-264,Site Vitrine,5,Standard,1,0,0,1,0,1,51,New Client,6200
-265,Landing Page,3,Premium,1,0,0,0,1,1,13,New Client,5000
-266,Site Vitrine,9,Standard,0,0,0,0,0,1,55,Returning Client,4400
-267,Landing Page,3,Standard,0,0,0,0,0,1,21,New Client,3100
-268,Site Vitrine,19,Premium,1,0,1,1,1,1,29,New Client,9700
-269,Site Vitrine,7,Basic,0,1,1,0,1,1,31,New Client,8300
-270,Landing Page,3,Standard,0,0,0,0,1,1,28,New Client,4200
-271,E-commerce,41,Basic,0,1,1,0,1,1,62,New Client,10000
-272,E-commerce,39,Premium,1,1,1,1,0,0,55,Returning Client,10000
-273,Site Vitrine,13,Basic,1,0,0,0,1,1,35,New Client,6500
-274,E-commerce,31,Standard,0,1,1,1,1,1,38,New Client,10000
-275,Site Vitrine,15,Standard,0,0,0,1,1,0,44,New Client,6200
-276,Site Vitrine,10,Premium,1,0,1,1,0,1,25,New Client,9000
-277,E-commerce,37,Basic,1,1,1,0,1,1,20,New Client,10000
-278,Landing Page,3,Basic,1,0,0,1,1,0,11,Returning Client,4900
-279,Landing Page,2,Basic,0,0,0,0,0,0,29,VIP Client,2600
-280,E-commerce,26,Premium,1,1,1,1,1,1,31,New Client,10000
-281,Site Vitrine,4,Standard,0,0,0,0,1,0,49,New Client,6200
-282,Site Vitrine,13,Basic,1,0,0,0,0,0,53,New Client,6700
-283,Landing Page,1,Standard,0,0,0,0,0,1,13,New Client,3600
-284,Landing Page,2,Standard,1,0,0,0,1,0,25,New Client,4400
-285,Site Vitrine,8,Premium,1,0,0,1,1,1,36,Returning Client,7600
-286,Site Vitrine,15,Standard,1,0,0,0,1,0,37,New Client,5300
-287,Site Vitrine,17,Basic,0,0,0,1,0,1,51,New Client,6700
-288,Site Vitrine,7,Basic,0,0,0,0,1,1,41,Returning Client,3900
-289,E-commerce,27,Premium,1,1,1,1,1,1,83,Returning Client,10000
-290,E-commerce,31,Standard,0,1,1,0,1,1,28,New Client,10000
-291,E-commerce,21,Premium,1,1,0,1,0,1,60,New Client,10000
-292,Site Vitrine,10,Premium,1,0,0,1,0,0,52,Returning Client,7500
-293,Site Vitrine,11,Standard,1,1,1,0,1,1,57,New Client,8300
-294,Site Vitrine,14,Standard,1,0,0,1,0,1,59,Returning Client,6800
-295,Site Vitrine,4,Basic,0,0,0,1,1,0,32,New Client,4300
-296,Site Vitrine,10,Standard,0,0,0,1,1,0,21,New Client,7800
-297,Landing Page,2,Standard,1,0,0,0,1,1,29,Returning Client,3700
-298,E-commerce,45,Premium,1,1,1,1,1,0,53,New Client,10000
-299,E-commerce,35,Premium,1,1,1,1,1,1,17,New Client,10000
-300,Site Vitrine,9,Standard,1,0,0,0,1,0,46,New Client,5000
-301,E-commerce,44,Standard,1,1,1,0,0,0,31,VIP Client,10000
-302,Landing Page,3,Standard,1,0,0,0,0,1,28,Returning Client,3700
-303,Site Vitrine,20,Basic,0,0,0,0,1,0,53,Returning Client,5400
-304,Site Vitrine,7,Standard,1,0,0,0,0,1,46,New Client,5200
-305,Site Vitrine,12,Premium,1,0,0,0,1,1,30,VIP Client,6500
-306,Site Vitrine,17,Basic,0,0,0,1,1,1,59,VIP Client,6700
-307,Site Vitrine,8,Standard,1,0,0,1,0,1,24,New Client,6900
-308,Site Vitrine,8,Standard,1,0,0,0,0,1,12,New Client,6500
-309,Site Vitrine,11,Premium,1,0,0,0,1,0,23,New Client,5700
-310,Site Vitrine,9,Standard,0,0,0,0,0,1,21,New Client,5600
-311,Site Vitrine,18,Premium,1,0,0,1,1,1,27,Returning Client,7700
-312,Site Vitrine,4,Standard,1,0,0,0,1,1,17,New Client,6100
-313,Site Vitrine,14,Basic,1,0,0,0,0,0,38,Returning Client,5700
-314,Site Vitrine,19,Standard,1,0,0,0,0,0,29,New Client,5600
-315,Landing Page,2,Standard,1,0,0,0,0,1,7,New Client,4400
-316,E-commerce,23,Basic,0,1,1,1,1,1,28,New Client,10000
-317,Site Vitrine,15,Basic,0,0,0,1,1,1,29,New Client,5700
-318,Landing Page,2,Basic,1,0,0,0,0,0,13,Returning Client,3400
-319,Landing Page,3,Basic,0,0,0,0,1,0,9,New Client,4200
-320,Site Vitrine,11,Basic,1,0,0,0,0,1,15,Returning Client,6000
-321,E-commerce,19,Standard,1,1,1,1,1,0,16,New Client,10000
-322,Site Vitrine,14,Basic,1,0,1,1,0,0,22,New Client,7700
-323,Landing Page,2,Standard,0,0,0,1,0,0,28,New Client,4000
-324,Site Vitrine,16,Basic,1,0,0,0,1,0,32,New Client,6000
-325,Site Vitrine,8,Basic,1,0,0,1,1,0,16,New Client,7100
-326,Site Vitrine,12,Premium,0,0,1,1,1,0,39,Returning Client,7900
-327,Site Vitrine,13,Basic,0,0,0,1,1,1,15,New Client,5700
-328,Site Vitrine,11,Standard,1,0,0,0,1,1,28,New Client,5900
-329,Site Vitrine,14,Basic,1,0,0,0,0,1,38,New Client,6100
-330,Landing Page,1,Basic,1,0,0,1,1,1,24,Returning Client,3700
-331,Site Vitrine,13,Standard,0,0,0,0,1,0,32,Returning Client,5100
-332,Site Vitrine,12,Standard,1,0,0,0,0,0,42,New Client,5200
-333,Landing Page,2,Premium,0,0,0,1,0,1,16,New Client,5300
-334,Site Vitrine,4,Standard,0,1,1,0,0,1,40,Returning Client,7400
-335,Landing Page,3,Basic,0,0,0,1,0,0,25,VIP Client,2900
-336,Landing Page,3,Standard,1,0,0,1,0,0,15,New Client,5000
-337,E-commerce,39,Basic,1,1,1,0,1,1,31,New Client,10000
-338,Site Vitrine,10,Basic,0,0,0,0,0,0,27,Returning Client,3700
-339,E-commerce,49,Basic,1,1,1,0,0,0,23,New Client,10000
-340,Site Vitrine,6,Basic,0,0,0,0,0,1,55,New Client,4200
-341,Landing Page,2,Standard,1,0,0,1,0,1,15,New Client,5500
-342,Site Vitrine,12,Standard,1,0,0,0,0,1,13,New Client,5400
-343,Landing Page,1,Basic,1,0,0,0,1,1,9,New Client,3900
-344,E-commerce,12,Standard,1,1,1,0,1,1,20,New Client,10000
-345,E-commerce,17,Standard,1,1,1,0,0,1,25,New Client,10000
-346,Site Vitrine,18,Standard,1,0,0,0,1,1,55,New Client,8500
-347,Site Vitrine,17,Basic,0,0,0,0,1,1,48,New Client,6600
-348,Landing Page,2,Basic,1,0,0,1,0,0,24,New Client,3800
-349,Site Vitrine,5,Premium,0,0,0,1,1,0,25,New Client,6300
-350,Landing Page,2,Basic,1,0,0,0,0,1,13,Returning Client,3900
-351,Site Vitrine,6,Premium,1,0,0,0,1,1,48,New Client,7700
-352,E-commerce,39,Basic,1,1,1,1,1,1,75,New Client,10000
-353,Site Vitrine,10,Basic,1,0,0,0,1,0,17,New Client,5000
-354,Landing Page,3,Standard,0,0,0,0,1,1,21,New Client,4600
-355,Site Vitrine,12,Standard,1,0,0,0,0,0,44,New Client,6100
-356,Site Vitrine,4,Premium,1,0,1,1,1,1,54,New Client,8500
-357,Site Vitrine,7,Standard,1,0,0,1,0,1,52,New Client,7500
-358,Site Vitrine,14,Standard,1,0,0,0,1,1,37,New Client,5400
-359,Site Vitrine,18,Basic,0,0,0,0,1,1,13,New Client,7400
-360,Site Vitrine,4,Basic,1,0,0,0,0,0,57,Returning Client,4300
-361,Site Vitrine,14,Basic,1,0,0,0,0,1,54,New Client,5200
-362,Site Vitrine,14,Standard,0,0,0,0,0,0,20,New Client,6500
-363,E-commerce,23,Basic,1,1,1,1,0,0,40,New Client,10000
-364,Site Vitrine,6,Standard,1,0,0,1,1,0,21,New Client,6600
-365,Site Vitrine,16,Standard,1,0,0,1,1,1,11,Returning Client,7100
-366,Site Vitrine,16,Standard,1,0,0,0,1,0,19,New Client,6800
-367,Site Vitrine,15,Standard,1,0,0,0,1,0,18,VIP Client,7000
-368,Landing Page,3,Basic,1,0,0,0,1,0,14,Returning Client,4600
-369,Site Vitrine,17,Standard,1,0,0,1,0,0,42,New Client,6700
-370,E-commerce,35,Standard,1,1,1,0,1,0,73,New Client,10000
-371,E-commerce,25,Standard,1,1,1,0,0,1,53,New Client,10000
-372,Site Vitrine,17,Basic,1,0,0,1,1,0,11,New Client,8600
-373,Site Vitrine,9,Premium,1,0,0,1,0,1,40,New Client,8000
-374,Site Vitrine,4,Premium,1,0,0,1,1,0,38,New Client,7000
-375,Site Vitrine,18,Premium,0,0,0,1,1,1,30,New Client,6500
-376,Site Vitrine,14,Premium,1,0,0,1,1,1,49,New Client,7200
-377,E-commerce,27,Premium,1,1,1,1,1,0,75,New Client,10000
-378,E-commerce,13,Standard,1,1,1,1,0,0,65,New Client,10000
-379,Site Vitrine,18,Basic,0,1,1,0,1,0,39,New Client,8400
-380,Site Vitrine,5,Basic,1,0,0,1,0,0,34,Returning Client,3700
-381,Site Vitrine,17,Premium,1,0,0,1,0,0,34,Returning Client,8600
-382,Landing Page,2,Basic,0,0,0,0,0,1,30,New Client,2800
-383,Site Vitrine,20,Basic,0,0,0,0,0,0,23,New Client,4900
-384,Site Vitrine,14,Basic,0,0,0,1,1,0,24,Returning Client,6100
-385,E-commerce,21,Premium,0,1,1,1,1,1,70,New Client,10000
-386,Site Vitrine,13,Standard,0,0,0,0,0,0,49,New Client,5700
-387,Site Vitrine,13,Basic,0,0,0,1,1,0,48,Returning Client,5100
-388,Site Vitrine,11,Basic,0,0,0,1,0,1,52,New Client,4600
-389,Site Vitrine,11,Standard,1,0,0,0,1,0,59,New Client,6600
-390,Landing Page,1,Basic,1,0,0,0,0,1,16,Returning Client,3800
-391,Site Vitrine,7,Standard,1,1,1,0,0,0,39,New Client,6900
-392,Site Vitrine,8,Basic,0,0,0,1,0,1,12,Returning Client,6600
-393,Site Vitrine,19,Standard,1,0,0,0,1,1,55,New Client,6300
-394,Site Vitrine,7,Basic,1,0,0,0,1,0,58,New Client,4200
-395,Landing Page,1,Standard,0,0,0,1,0,1,22,Returning Client,3900
-396,Site Vitrine,19,Basic,0,0,0,0,1,1,13,Returning Client,6300
-397,Landing Page,3,Standard,1,0,0,1,0,1,15,New Client,5400
-398,Landing Page,3,Basic,0,0,0,0,1,0,17,Returning Client,3000
-399,Site Vitrine,11,Basic,1,0,0,0,0,1,45,Returning Client,5800
-400,Landing Page,3,Basic,0,0,0,0,1,1,11,New Client,3400
-401,Site Vitrine,10,Basic,1,0,0,0,0,1,38,New Client,4200
-402,Site Vitrine,17,Standard,0,0,0,1,1,0,35,New Client,8100
-403,Site Vitrine,13,Basic,1,0,0,0,1,0,36,Returning Client,5600
-404,Site Vitrine,10,Basic,1,0,0,1,1,0,58,New Client,6400
-405,Site Vitrine,18,Standard,1,0,0,0,0,0,32,New Client,7400
-406,Site Vitrine,12,Standard,1,0,0,0,1,1,59,New Client,6000
-407,Landing Page,2,Premium,1,0,0,1,0,1,15,VIP Client,4500
-408,Site Vitrine,6,Standard,0,1,1,1,0,1,45,New Client,9900
-409,Site Vitrine,17,Basic,1,0,0,0,0,0,52,New Client,5800
-410,Site Vitrine,19,Premium,1,0,0,1,1,0,55,VIP Client,6500
-411,Landing Page,1,Basic,1,0,0,1,0,0,19,New Client,3900
-412,Site Vitrine,18,Standard,0,0,0,0,0,0,21,New Client,5600
-413,E-commerce,44,Standard,1,1,1,0,1,0,35,New Client,10000
-414,Landing Page,2,Basic,1,1,1,1,1,0,27,Returning Client,6700
-415,E-commerce,31,Premium,1,1,1,0,0,1,15,New Client,10000
-416,E-commerce,38,Premium,1,1,1,1,1,0,65,Returning Client,10000
-417,Landing Page,2,Standard,0,0,0,0,0,1,18,New Client,3700
-418,Site Vitrine,9,Standard,0,0,0,0,1,0,44,Returning Client,5900
-419,Site Vitrine,17,Standard,0,0,0,1,1,0,45,New Client,6700
-420,Site Vitrine,17,Basic,1,0,0,0,1,0,17,Returning Client,6400
-421,Site Vitrine,12,Basic,1,0,1,0,1,0,52,Returning Client,5700
-422,Site Vitrine,13,Standard,0,0,1,0,0,1,50,New Client,5400
-423,Site Vitrine,19,Basic,1,0,0,0,0,1,10,New Client,7100
-424,Site Vitrine,18,Premium,1,0,0,1,0,1,20,New Client,7700
-425,Landing Page,2,Basic,1,0,0,0,0,0,25,New Client,3000
-426,Landing Page,2,Basic,0,0,0,1,1,1,29,New Client,4600
-427,Site Vitrine,7,Basic,1,0,0,1,1,1,53,New Client,6500
-428,Site Vitrine,5,Basic,1,0,0,0,1,1,60,New Client,5200
-429,Landing Page,3,Basic,1,0,0,0,0,1,18,VIP Client,3200
-430,Site Vitrine,16,Standard,0,0,0,0,1,0,50,VIP Client,6600
-431,Landing Page,3,Basic,0,0,0,1,0,1,14,Returning Client,3700
-432,Landing Page,2,Standard,0,0,0,0,0,1,26,New Client,3400
-433,Site Vitrine,14,Premium,0,0,0,1,1,0,17,New Client,8300
-434,Site Vitrine,13,Standard,0,0,0,0,1,0,36,New Client,5400
-435,Site Vitrine,10,Premium,1,1,1,1,1,1,44,New Client,10000
-436,Landing Page,1,Standard,0,0,0,0,1,1,20,New Client,4000
-437,Landing Page,1,Basic,0,0,0,0,1,1,23,Returning Client,2900
-438,Site Vitrine,4,Basic,0,0,0,0,1,1,18,Returning Client,5100
-439,Site Vitrine,7,Standard,0,0,0,0,1,1,10,VIP Client,5400
-440,Landing Page,2,Basic,0,0,0,0,0,0,13,New Client,2300
-441,Site Vitrine,5,Premium,1,0,0,1,0,0,34,New Client,5700
-442,Site Vitrine,5,Standard,0,0,1,0,0,0,43,New Client,6000
-443,Site Vitrine,9,Standard,1,0,0,0,1,0,28,New Client,5700
-444,Site Vitrine,5,Premium,1,0,0,0,1,1,31,New Client,7400
-445,Site Vitrine,16,Standard,1,0,0,0,1,1,10,Returning Client,7400
-446,Site Vitrine,14,Basic,0,0,0,0,0,1,25,New Client,5300
-447,E-commerce,20,Standard,1,1,1,1,0,0,70,New Client,10000
-448,Site Vitrine,17,Standard,1,0,0,1,0,1,27,New Client,7300
-449,Site Vitrine,8,Basic,1,0,0,1,0,1,14,New Client,7900
-450,E-commerce,35,Premium,1,1,1,1,0,0,23,Returning Client,10000
-451,E-commerce,27,Premium,1,1,1,0,1,0,84,New Client,10000
-452,Site Vitrine,7,Basic,0,0,0,0,1,0,50,New Client,4400
-453,Landing Page,2,Basic,0,0,0,0,0,1,12,New Client,3500
-454,Site Vitrine,5,Basic,1,0,0,0,0,0,40,Returning Client,4500
-455,Site Vitrine,15,Standard,0,0,0,0,1,0,51,New Client,5700
-456,E-commerce,41,Basic,1,1,1,0,1,0,74,Returning Client,10000
-457,E-commerce,22,Standard,0,1,1,0,1,0,75,New Client,10000
-458,Site Vitrine,12,Standard,0,0,0,0,1,1,36,New Client,6400
-459,Landing Page,2,Basic,1,0,0,1,1,1,26,New Client,3900
-460,E-commerce,22,Standard,1,1,1,0,1,1,15,VIP Client,10000
-461,Site Vitrine,12,Basic,0,0,0,0,1,1,35,New Client,5600
-462,Landing Page,2,Standard,0,0,0,1,1,0,12,Returning Client,4200
-463,E-commerce,40,Standard,0,1,1,1,1,1,37,New Client,10000
-464,E-commerce,25,Premium,1,1,1,0,0,1,80,New Client,10000
-465,E-commerce,29,Premium,1,1,1,1,0,1,79,New Client,10000
-466,Site Vitrine,15,Basic,1,0,0,0,0,0,56,New Client,6000
-467,Landing Page,3,Basic,0,0,0,0,0,0,18,New Client,3300
-468,Site Vitrine,5,Basic,0,0,0,0,0,1,28,New Client,4500
-469,E-commerce,24,Premium,1,1,1,1,1,0,55,New Client,10000
-470,Site Vitrine,4,Standard,1,0,0,0,1,0,12,New Client,5800
-471,Site Vitrine,15,Basic,1,0,0,1,1,0,59,New Client,7000
-472,Site Vitrine,4,Standard,1,0,0,0,0,0,55,New Client,4400
-473,Landing Page,1,Premium,1,0,0,1,0,1,10,Returning Client,5200
-474,E-commerce,36,Basic,1,1,1,1,1,0,36,New Client,10000
-475,Landing Page,2,Standard,0,0,0,0,1,0,8,New Client,4300
-476,Landing Page,3,Standard,1,0,0,1,0,1,23,New Client,4100
-477,E-commerce,42,Standard,1,1,1,1,1,1,34,New Client,10000
-478,Site Vitrine,13,Premium,1,0,0,0,0,1,51,New Client,5400
-479,Site Vitrine,10,Basic,0,0,0,1,1,1,33,Returning Client,5200
-480,Landing Page,1,Premium,0,0,0,0,1,0,11,New Client,4900
-481,Site Vitrine,13,Basic,1,0,0,1,0,1,28,New Client,5900
-482,Landing Page,1,Basic,1,0,0,0,0,0,19,New Client,3000
-483,Site Vitrine,17,Basic,0,0,0,1,0,1,28,New Client,6600
-484,Landing Page,2,Basic,1,0,0,1,0,1,28,New Client,3700
-485,E-commerce,34,Basic,1,1,1,1,1,1,59,New Client,10000
-486,Site Vitrine,9,Premium,1,1,1,1,1,1,31,New Client,9600
-487,Landing Page,2,Basic,1,0,0,0,1,1,13,Returning Client,3700
-488,Landing Page,2,Basic,0,0,0,0,1,1,14,New Client,3600
-489,Site Vitrine,20,Standard,1,0,0,0,1,1,46,New Client,6500
-490,Site Vitrine,12,Standard,1,0,0,0,0,1,16,New Client,5800
-491,Site Vitrine,20,Standard,0,0,0,0,0,1,12,Returning Client,6100
-492,E-commerce,22,Standard,1,1,1,1,1,1,74,New Client,10000
-493,Site Vitrine,11,Standard,0,0,1,0,0,0,47,New Client,5000
-494,Landing Page,3,Standard,1,0,0,0,0,1,9,New Client,5200
-495,Site Vitrine,7,Basic,0,1,1,0,0,0,35,New Client,6500
-496,Site Vitrine,12,Basic,1,0,0,0,0,1,55,New Client,5900
-497,Site Vitrine,13,Basic,0,0,0,0,0,0,29,New Client,4400
-498,Site Vitrine,19,Standard,1,0,0,1,1,1,15,New Client,8400
-499,Landing Page,1,Standard,1,0,0,0,1,0,8,New Client,4800
-500,E-commerce,33,Premium,1,1,1,1,0,1,38,New Client,10000
-501,Site Vitrine,10,Premium,1,0,0,1,1,1,43,New Client,6800
-502,E-commerce,16,Standard,1,1,1,1,1,0,83,Returning Client,9600
-503,Site Vitrine,19,Standard,1,0,0,1,1,0,39,Returning Client,8400
-504,Site Vitrine,8,Basic,1,0,0,1,0,1,10,New Client,6000
-505,Site Vitrine,20,Basic,0,0,0,1,1,1,11,New Client,7400
-506,Site Vitrine,14,Basic,0,0,0,0,1,1,44,New Client,6300
-507,Site Vitrine,5,Premium,0,0,0,1,1,0,33,New Client,7300
-508,Site Vitrine,15,Standard,0,1,1,0,1,1,30,New Client,8300
-509,Landing Page,2,Standard,0,0,0,0,0,0,19,New Client,3200
-510,Site Vitrine,18,Standard,1,0,0,1,0,0,55,New Client,6500
-511,Site Vitrine,19,Standard,0,0,0,0,0,0,50,New Client,5900
-512,E-commerce,50,Standard,1,1,1,1,0,1,78,New Client,10000
-513,Site Vitrine,16,Standard,0,0,0,1,1,0,32,Returning Client,6000
-514,Landing Page,2,Basic,1,0,0,0,1,1,20,New Client,4000
-515,Landing Page,3,Basic,0,0,0,0,0,1,15,New Client,2800
-516,Site Vitrine,6,Premium,1,0,0,0,1,0,14,New Client,9300
-517,Site Vitrine,5,Standard,0,0,0,0,1,0,24,New Client,5500
-518,Site Vitrine,17,Standard,1,0,0,0,1,1,56,VIP Client,6200
-519,Landing Page,3,Basic,0,0,0,0,1,0,22,Returning Client,3400
-520,Site Vitrine,15,Standard,1,0,1,1,1,1,23,Returning Client,7200
-521,Site Vitrine,11,Basic,0,0,0,1,1,1,11,New Client,7000
-522,Site Vitrine,13,Basic,0,0,0,0,1,0,51,Returning Client,4400
-523,Landing Page,3,Basic,0,0,0,1,0,1,12,New Client,3800
-524,E-commerce,32,Standard,1,1,1,1,1,1,20,Returning Client,10000
-525,Site Vitrine,7,Standard,1,0,1,0,1,1,59,New Client,7500
-526,Landing Page,1,Premium,0,0,0,1,0,0,11,Returning Client,4900
-527,Site Vitrine,17,Basic,1,0,0,1,1,1,52,New Client,6400
-528,Site Vitrine,11,Standard,1,1,1,0,0,0,25,New Client,10000
-529,Site Vitrine,13,Basic,1,0,0,0,0,1,18,Returning Client,6600
-530,E-commerce,48,Standard,1,1,1,1,0,0,88,Returning Client,10000
-531,Site Vitrine,18,Premium,1,0,0,1,0,0,50,New Client,8200
-532,Landing Page,1,Basic,0,0,0,0,0,1,26,Returning Client,2800
-533,Site Vitrine,5,Premium,1,0,0,1,1,1,48,New Client,7500
-534,Landing Page,1,Basic,0,0,0,1,0,1,11,Returning Client,3800
-535,Site Vitrine,18,Basic,1,0,0,1,0,0,25,Returning Client,4900
-536,Site Vitrine,4,Basic,0,0,0,0,1,1,42,New Client,5700
-537,Site Vitrine,20,Standard,0,0,0,1,0,0,41,New Client,5900
-538,E-commerce,40,Standard,1,1,1,0,0,0,21,New Client,10000
-539,Landing Page,3,Standard,1,0,1,0,0,1,17,New Client,5400
-540,Site Vitrine,8,Basic,1,0,0,1,0,1,40,New Client,5500
-541,E-commerce,15,Premium,1,1,1,1,0,1,57,Returning Client,10000
-542,Landing Page,3,Basic,1,0,0,0,0,1,30,New Client,3700
-543,Site Vitrine,17,Premium,1,0,0,1,1,0,16,New Client,8100
-544,Site Vitrine,11,Basic,1,1,1,1,1,1,31,New Client,9000
-545,Site Vitrine,16,Basic,1,1,1,0,0,0,53,Returning Client,8900
-546,Landing Page,3,Basic,1,0,0,0,0,0,10,New Client,3500
-547,Site Vitrine,9,Standard,0,1,1,1,1,1,32,New Client,8000
-548,Site Vitrine,10,Premium,0,0,0,0,1,1,23,New Client,7100
-549,Landing Page,1,Basic,1,0,0,0,0,1,26,New Client,2900
-550,Landing Page,2,Basic,1,0,0,0,1,0,26,New Client,3900
-551,Site Vitrine,9,Standard,1,0,0,1,1,0,12,New Client,7400
-552,Landing Page,3,Basic,1,0,0,1,1,0,19,New Client,4300
-553,Site Vitrine,8,Standard,1,0,0,1,1,1,24,Returning Client,7100
-554,E-commerce,10,Premium,1,1,1,0,0,1,35,New Client,10000
-555,Site Vitrine,17,Premium,0,0,0,1,1,0,43,New Client,7500
-556,Landing Page,1,Standard,1,0,0,0,1,1,17,New Client,4800
-557,E-commerce,43,Premium,1,1,1,0,1,0,85,New Client,10000
-558,Site Vitrine,11,Basic,1,1,1,0,1,1,30,New Client,7800
-559,Landing Page,2,Basic,0,0,0,0,1,1,15,Returning Client,3200
-560,Landing Page,1,Standard,0,0,0,1,0,0,10,New Client,3900
-561,Site Vitrine,15,Basic,0,0,0,0,1,0,14,Returning Client,6300
-562,Site Vitrine,4,Standard,0,0,0,1,1,0,37,New Client,4900
-563,Site Vitrine,20,Standard,0,0,0,0,1,1,27,New Client,6400
-564,Landing Page,1,Basic,1,0,0,1,1,1,25,New Client,4800
-565,Site Vitrine,18,Basic,0,0,0,1,1,1,22,New Client,8500
-566,Site Vitrine,15,Basic,0,0,0,1,1,1,12,New Client,6400
-567,Site Vitrine,8,Standard,0,0,0,0,0,1,48,Returning Client,5400
-568,Site Vitrine,16,Basic,0,0,0,0,0,0,19,Returning Client,5300
-569,Site Vitrine,15,Premium,0,0,0,1,0,0,55,New Client,8000
-570,Landing Page,3,Basic,0,0,0,0,0,1,11,New Client,3800
-571,Site Vitrine,5,Standard,0,0,0,0,0,0,36,New Client,5100
-572,E-commerce,39,Standard,1,1,1,1,1,1,82,New Client,10000
-573,Site Vitrine,8,Standard,1,0,0,0,1,1,42,Returning Client,5600
-574,Site Vitrine,18,Basic,0,0,0,0,1,1,15,Returning Client,7400
-575,Site Vitrine,4,Standard,1,0,0,0,0,0,15,New Client,5700
-576,Landing Page,3,Premium,1,0,0,0,0,0,16,New Client,5100
-577,E-commerce,42,Basic,0,1,1,0,0,1,90,Returning Client,10000
-578,Site Vitrine,7,Standard,1,0,0,1,1,1,54,New Client,6400
-579,E-commerce,26,Premium,0,1,1,1,0,1,16,New Client,10000
-580,Site Vitrine,20,Standard,1,0,0,0,0,0,27,Returning Client,6000
-581,E-commerce,47,Premium,1,1,1,1,1,1,48,New Client,10000
-582,Site Vitrine,19,Premium,1,0,0,1,1,0,50,VIP Client,7300
-583,Site Vitrine,16,Basic,0,0,0,0,0,1,40,New Client,4800
-584,Site Vitrine,6,Premium,1,0,0,1,1,1,20,VIP Client,7100
-585,E-commerce,30,Standard,1,1,1,1,1,1,70,New Client,10000
-586,Site Vitrine,14,Standard,1,0,0,0,0,1,19,New Client,6900
-587,E-commerce,30,Premium,1,1,1,1,1,1,81,New Client,10000
-588,E-commerce,39,Standard,1,1,1,1,1,1,40,New Client,10000
-589,Site Vitrine,14,Basic,0,0,0,0,0,0,13,New Client,4400
-590,E-commerce,36,Standard,1,1,1,0,1,1,34,New Client,10000
-591,Site Vitrine,20,Basic,1,1,1,0,1,0,28,Returning Client,7400
-592,Landing Page,1,Basic,0,0,0,0,0,1,23,New Client,2300
-593,Landing Page,2,Basic,1,0,0,0,0,1,29,New Client,3700
-594,Landing Page,2,Basic,0,0,0,0,1,0,8,Returning Client,3000
-595,Landing Page,1,Basic,0,0,0,1,1,0,8,VIP Client,3700
-596,E-commerce,14,Premium,1,1,1,1,0,0,27,New Client,10000
-597,Site Vitrine,10,Premium,0,0,0,1,1,0,55,New Client,6700
-598,E-commerce,48,Standard,1,1,1,1,1,0,29,New Client,10000
-599,E-commerce,47,Standard,0,1,1,0,0,0,24,New Client,10000
-600,E-commerce,33,Basic,0,1,1,1,0,0,70,Returning Client,10000
-601,E-commerce,31,Basic,1,1,1,0,1,1,17,New Client,10000
-602,E-commerce,30,Basic,1,1,1,0,1,0,34,New Client,10000
-603,Site Vitrine,13,Premium,1,0,0,1,1,1,36,New Client,7200
-604,Site Vitrine,10,Basic,0,1,1,0,1,1,54,New Client,10000
-605,Site Vitrine,17,Basic,1,0,0,0,1,1,35,Returning Client,6500
-606,Site Vitrine,11,Premium,1,0,0,1,0,1,28,Returning Client,6800
-607,Site Vitrine,8,Standard,0,0,0,0,1,0,21,Returning Client,6200
-608,Landing Page,3,Basic,1,0,0,0,0,1,15,New Client,3700
-609,Site Vitrine,6,Standard,0,0,0,0,1,0,42,New Client,4400
-610,Landing Page,3,Standard,1,0,0,0,0,1,9,Returning Client,3900
-611,Site Vitrine,10,Basic,0,0,0,0,0,1,16,New Client,4700
-612,Landing Page,2,Basic,1,0,0,0,0,0,22,New Client,3300
-613,Site Vitrine,20,Premium,1,0,0,0,1,1,55,New Client,9900
-614,Site Vitrine,12,Premium,0,0,0,0,1,1,58,Returning Client,6200
-615,E-commerce,15,Standard,1,1,1,1,1,1,69,New Client,10000
-616,Landing Page,2,Basic,0,0,0,1,0,1,21,Returning Client,3100
-617,Site Vitrine,15,Basic,0,0,0,0,1,0,10,New Client,5600
-618,Site Vitrine,13,Standard,1,0,0,0,1,1,58,New Client,6100
-619,Site Vitrine,15,Standard,1,0,1,0,1,0,17,New Client,7700
-620,Site Vitrine,8,Basic,0,0,0,0,1,0,30,Returning Client,4200
-621,Site Vitrine,10,Premium,1,0,0,0,1,1,21,New Client,7700
-622,Landing Page,1,Standard,1,0,0,0,1,0,17,New Client,4400
-623,Site Vitrine,20,Standard,1,0,0,0,0,1,21,New Client,8000
-624,Landing Page,3,Basic,1,0,0,0,1,0,14,Returning Client,4200
-625,E-commerce,22,Standard,1,1,1,0,0,1,71,New Client,10000
-626,Landing Page,2,Standard,0,0,0,0,0,1,15,New Client,3600
-627,E-commerce,30,Premium,1,1,1,0,1,0,17,New Client,10000
-628,Site Vitrine,4,Premium,1,0,0,1,1,1,36,Returning Client,7100
-629,Site Vitrine,18,Standard,0,1,1,1,1,0,42,New Client,10000
-630,E-commerce,17,Premium,1,1,1,0,1,1,21,New Client,10000
-631,Landing Page,1,Premium,1,0,0,1,1,1,8,New Client,5800
-632,Site Vitrine,8,Basic,0,0,0,1,0,1,34,New Client,5000
-633,Landing Page,1,Standard,1,0,0,0,0,1,27,New Client,4100
-634,E-commerce,23,Basic,1,1,1,1,1,1,61,New Client,10000
-635,Site Vitrine,17,Basic,1,0,0,0,1,1,33,New Client,7000
-636,Site Vitrine,4,Basic,0,0,0,0,1,0,57,New Client,4400
-637,E-commerce,44,Basic,1,1,1,1,1,1,43,VIP Client,10000
-638,E-commerce,41,Premium,1,1,1,1,1,1,47,New Client,10000
-639,Landing Page,1,Standard,1,0,1,1,0,1,11,VIP Client,6100
-640,Site Vitrine,12,Standard,1,0,0,0,0,1,25,New Client,5900
-641,E-commerce,49,Basic,1,1,1,0,0,1,56,Returning Client,10000
-642,Site Vitrine,10,Standard,0,0,0,1,1,1,52,New Client,6700
-643,E-commerce,12,Premium,1,1,1,1,1,0,34,Returning Client,10000
-644,Site Vitrine,16,Basic,0,1,1,0,0,0,28,New Client,8700
-645,Site Vitrine,5,Standard,0,0,0,1,0,1,45,Returning Client,5500
-646,E-commerce,16,Premium,1,1,1,1,1,0,66,New Client,10000
-647,Site Vitrine,15,Premium,1,0,0,1,1,0,52,New Client,7500
-648,Site Vitrine,20,Basic,1,0,0,1,0,1,29,New Client,7500
-649,Site Vitrine,8,Basic,1,0,0,0,1,1,19,New Client,5900
-650,Landing Page,3,Standard,1,0,0,0,1,0,10,New Client,4700
-651,E-commerce,34,Premium,0,1,1,1,0,0,68,New Client,10000
-652,Site Vitrine,12,Basic,1,0,0,1,0,0,57,New Client,7000
-653,Landing Page,2,Standard,0,0,0,1,0,1,17,Returning Client,4100
-654,Site Vitrine,15,Standard,1,0,0,0,1,0,59,New Client,7900
-655,Landing Page,3,Basic,0,0,0,0,1,0,15,New Client,2900
-656,E-commerce,38,Standard,1,1,1,0,0,1,38,Returning Client,10000
-657,Site Vitrine,11,Standard,0,0,0,0,0,0,55,Returning Client,4800
-658,Site Vitrine,10,Basic,1,0,0,1,0,1,50,New Client,6100
-659,Site Vitrine,9,Premium,1,0,0,1,1,0,16,New Client,7700
-660,Site Vitrine,11,Standard,0,0,0,0,1,1,51,New Client,5800
-661,Site Vitrine,6,Basic,0,0,0,1,0,1,46,New Client,5200
-662,Site Vitrine,9,Standard,1,0,0,0,0,1,48,Returning Client,6100
-663,Site Vitrine,18,Basic,1,0,0,1,0,0,10,New Client,7200
-664,Site Vitrine,13,Basic,0,0,0,0,1,0,41,Returning Client,5600
-665,Landing Page,3,Premium,1,0,0,1,1,1,23,New Client,6000
-666,E-commerce,29,Basic,1,1,1,0,1,1,67,New Client,10000
-667,E-commerce,25,Premium,1,1,1,1,1,1,87,VIP Client,10000
-668,E-commerce,34,Standard,1,1,1,1,0,0,62,Returning Client,10000
-669,Site Vitrine,8,Basic,0,0,0,0,0,0,16,New Client,4600
-670,Landing Page,1,Basic,0,0,0,0,1,1,24,New Client,3400
-671,Site Vitrine,16,Premium,1,0,0,1,1,0,32,New Client,7900
-672,Landing Page,1,Basic,0,0,0,1,1,0,27,New Client,3800
-673,Landing Page,2,Standard,1,0,0,0,1,1,8,New Client,4800
-674,Landing Page,3,Basic,1,0,0,1,0,1,15,New Client,3500
-675,Site Vitrine,20,Standard,0,0,0,1,1,1,28,New Client,8400
-676,Site Vitrine,11,Standard,1,0,0,1,0,1,13,Returning Client,6500
-677,Site Vitrine,20,Premium,1,0,0,1,1,1,23,Returning Client,7400
-678,Site Vitrine,4,Standard,0,0,0,0,1,0,21,New Client,5600
-679,E-commerce,15,Basic,1,1,1,0,1,1,22,New Client,9600
-680,Site Vitrine,14,Basic,1,0,0,1,0,0,44,New Client,6600
-681,Site Vitrine,11,Basic,0,0,0,1,0,0,40,New Client,5800
-682,Site Vitrine,7,Basic,1,0,0,0,0,0,52,New Client,5700
-683,Site Vitrine,11,Standard,1,0,0,0,1,1,21,New Client,7700
-684,Landing Page,1,Basic,0,0,0,0,1,1,30,New Client,2600
-685,Site Vitrine,20,Basic,1,0,0,1,1,0,26,New Client,5600
-686,E-commerce,43,Standard,1,1,1,1,0,0,26,New Client,10000
-687,Site Vitrine,9,Basic,1,0,0,0,0,1,58,New Client,4700
-688,Site Vitrine,8,Basic,1,0,0,0,0,1,22,New Client,4700
-689,Landing Page,1,Basic,1,1,1,1,1,1,20,New Client,8100
-690,E-commerce,30,Standard,1,1,1,0,1,1,42,New Client,10000
-691,Landing Page,3,Basic,1,0,0,0,0,0,7,New Client,4100
-692,Landing Page,3,Standard,1,0,0,0,1,1,9,Returning Client,4000
-693,Site Vitrine,11,Standard,1,0,0,1,1,0,25,New Client,5900
-694,Site Vitrine,16,Premium,1,0,0,1,1,0,38,New Client,8600
-695,E-commerce,19,Standard,1,1,1,0,1,0,32,New Client,10000
-696,Site Vitrine,8,Standard,0,0,1,1,0,1,24,New Client,6100
-697,Site Vitrine,12,Premium,1,0,0,1,1,1,25,Returning Client,7800
-698,Landing Page,3,Standard,1,0,0,1,0,1,26,Returning Client,4600
-699,E-commerce,36,Basic,1,1,1,1,1,0,81,New Client,10000
-700,Site Vitrine,14,Standard,0,0,0,0,0,1,42,New Client,5400
-701,Landing Page,1,Standard,0,0,0,0,1,1,11,Returning Client,3900
-702,Landing Page,2,Premium,1,0,0,0,0,1,14,VIP Client,5600
-703,Site Vitrine,9,Basic,0,0,0,0,1,0,26,New Client,5200
-704,E-commerce,22,Standard,1,1,1,1,1,0,63,New Client,10000
-705,Site Vitrine,5,Basic,0,0,0,1,1,1,48,New Client,5400
-706,Site Vitrine,8,Basic,1,0,0,1,1,0,29,New Client,6800
-707,E-commerce,11,Standard,0,1,1,0,0,0,26,Returning Client,9600
-708,Site Vitrine,20,Basic,1,0,0,0,1,1,41,VIP Client,5500
-709,E-commerce,10,Basic,0,1,1,0,1,1,73,New Client,8900
-710,Site Vitrine,8,Standard,0,0,0,0,0,1,44,New Client,4900
-711,Site Vitrine,13,Basic,0,0,0,0,0,0,11,Returning Client,4900
-712,Site Vitrine,16,Basic,0,0,0,1,1,1,22,New Client,5900
-713,E-commerce,48,Standard,1,1,1,1,1,0,55,Returning Client,10000
-714,Site Vitrine,7,Standard,1,0,0,1,1,1,21,New Client,6800
-715,Site Vitrine,4,Standard,1,0,0,0,1,0,48,Returning Client,6100
-716,Landing Page,2,Standard,1,0,0,1,0,1,16,Returning Client,3800
-717,Site Vitrine,18,Standard,1,0,0,0,0,1,21,Returning Client,7000
-718,Site Vitrine,8,Standard,1,0,0,0,1,1,45,VIP Client,4600
-719,Site Vitrine,10,Standard,0,0,0,1,1,0,16,Returning Client,5300
-720,E-commerce,43,Basic,1,1,1,1,0,0,43,New Client,10000
-721,Landing Page,1,Basic,0,0,0,0,0,1,16,Returning Client,2400
-722,Site Vitrine,18,Premium,1,0,0,0,0,0,25,Returning Client,7100
-723,E-commerce,40,Standard,1,1,1,1,0,0,66,Returning Client,10000
-724,E-commerce,20,Standard,1,1,1,0,1,1,48,New Client,10000
-725,Site Vitrine,19,Basic,1,0,0,1,0,0,36,Returning Client,6200
-726,E-commerce,29,Premium,1,1,1,1,0,1,46,Returning Client,10000
-727,Landing Page,2,Basic,0,0,0,1,0,0,8,New Client,3200
-728,Site Vitrine,5,Standard,1,1,1,1,1,0,47,Returning Client,8700
-729,Site Vitrine,9,Basic,0,0,0,0,0,1,57,Returning Client,4700
-730,Site Vitrine,8,Basic,1,0,0,0,1,1,30,New Client,5900
-731,Site Vitrine,18,Standard,0,0,0,0,0,0,32,New Client,5600
-732,Site Vitrine,16,Basic,1,0,0,0,1,1,59,New Client,6900
-733,Site Vitrine,9,Basic,0,0,0,1,0,0,11,New Client,5800
-734,E-commerce,25,Premium,1,1,1,1,1,0,79,New Client,10000
-735,E-commerce,13,Premium,1,1,1,0,1,1,27,Returning Client,10000
-736,Site Vitrine,11,Standard,1,0,0,0,1,0,20,New Client,8000
-737,Landing Page,1,Basic,0,0,0,0,0,1,8,New Client,3000
-738,Site Vitrine,10,Basic,1,0,0,1,1,1,60,VIP Client,4400
-739,Landing Page,3,Basic,1,0,0,0,1,1,7,Returning Client,3900
-740,Site Vitrine,14,Basic,1,0,0,0,0,0,43,Returning Client,5000
-741,Site Vitrine,4,Basic,0,0,1,0,1,0,60,New Client,4700
-742,Landing Page,2,Standard,1,0,0,0,1,1,13,Returning Client,4400
-743,Landing Page,2,Basic,0,0,0,0,1,1,12,Returning Client,3700
-744,E-commerce,30,Basic,1,1,1,1,0,1,52,New Client,10000
-745,Site Vitrine,15,Standard,1,0,0,1,1,0,13,Returning Client,8900
-746,Site Vitrine,20,Basic,0,0,0,1,1,1,12,New Client,6400
-747,E-commerce,32,Premium,1,1,1,1,1,1,69,Returning Client,10000
-748,Site Vitrine,9,Premium,1,1,1,1,0,1,56,New Client,8200
-749,Landing Page,3,Standard,1,0,0,0,1,0,26,New Client,3700
-750,Landing Page,2,Standard,0,0,0,0,1,1,13,VIP Client,3700
-751,Landing Page,1,Basic,1,0,0,1,1,0,25,New Client,4200
-752,Site Vitrine,9,Standard,0,1,1,0,0,1,53,Returning Client,8100
-753,E-commerce,30,Premium,1,1,1,1,1,1,51,New Client,10000
-754,Site Vitrine,8,Basic,1,0,0,0,1,1,23,New Client,5900
-755,Landing Page,1,Basic,0,0,0,1,1,0,8,Returning Client,3900
-756,Site Vitrine,10,Standard,0,0,0,1,0,1,10,New Client,7200
-757,Site Vitrine,20,Basic,0,0,0,0,0,1,52,Returning Client,5900
-758,E-commerce,33,Premium,0,1,1,1,1,1,35,New Client,10000
-759,Landing Page,3,Basic,1,0,0,1,1,0,12,Returning Client,4800
-760,E-commerce,47,Standard,1,1,1,1,1,0,15,New Client,10000
-761,E-commerce,38,Standard,1,1,1,1,1,0,62,New Client,10000
-762,Landing Page,3,Basic,1,1,1,1,0,1,20,Returning Client,6300
-763,Site Vitrine,10,Basic,1,0,0,1,0,1,12,New Client,6600
-764,Site Vitrine,13,Basic,1,1,1,0,0,1,48,New Client,8600
-765,Site Vitrine,12,Premium,1,0,0,1,0,1,52,New Client,6500
-766,E-commerce,41,Standard,0,1,1,0,1,0,70,New Client,10000
-767,Landing Page,3,Basic,0,0,0,0,0,1,10,New Client,3100
-768,Site Vitrine,10,Standard,0,1,1,0,0,0,56,New Client,8300
-769,Landing Page,1,Basic,0,0,0,0,1,0,27,New Client,2900
-770,Site Vitrine,15,Standard,0,0,0,1,0,0,28,New Client,5200
-771,Site Vitrine,15,Standard,1,0,0,0,0,1,38,New Client,6600
-772,Landing Page,1,Standard,1,0,0,0,0,0,8,New Client,4100
-773,Site Vitrine,13,Standard,0,0,0,0,1,0,20,Returning Client,5300
-774,E-commerce,18,Premium,1,1,1,1,1,1,90,New Client,10000
-775,Landing Page,2,Basic,0,0,0,1,1,1,21,Returning Client,3500
-776,Site Vitrine,4,Standard,1,0,0,1,0,1,32,New Client,6300
-777,Site Vitrine,11,Premium,1,1,1,0,1,1,31,New Client,10000
-778,E-commerce,50,Standard,0,1,1,1,1,0,20,New Client,10000
-779,Site Vitrine,5,Standard,0,0,0,0,0,0,10,Returning Client,4500
-780,Site Vitrine,19,Basic,1,0,0,0,0,0,27,Returning Client,5100
-781,Site Vitrine,18,Basic,1,0,0,1,1,0,41,Returning Client,7200
-782,Site Vitrine,20,Basic,0,0,0,0,1,0,50,New Client,6000
-783,Site Vitrine,20,Standard,0,0,0,1,0,0,47,Returning Client,6300
-784,E-commerce,22,Standard,0,1,1,1,1,1,53,Returning Client,10000
-785,Site Vitrine,7,Basic,1,1,1,0,1,1,39,Returning Client,6300
-786,Site Vitrine,14,Standard,0,0,0,0,0,0,15,New Client,5100
-787,E-commerce,41,Premium,1,1,1,1,1,1,15,New Client,10000
-788,Site Vitrine,12,Basic,0,1,1,0,0,0,49,Returning Client,6500
-789,Site Vitrine,4,Basic,0,0,0,0,0,1,51,New Client,4000
-790,Site Vitrine,18,Standard,1,0,0,0,0,1,57,New Client,8100
-791,Landing Page,3,Basic,0,0,0,0,1,1,8,New Client,3500
-792,Landing Page,3,Basic,1,0,0,0,1,0,25,New Client,3800
-793,Site Vitrine,17,Basic,1,0,0,1,1,1,35,New Client,7400
-794,Landing Page,3,Basic,1,0,0,0,0,0,25,Returning Client,3000
-795,E-commerce,40,Standard,1,1,1,0,1,1,51,New Client,10000
-796,E-commerce,39,Standard,0,1,1,1,0,0,66,Returning Client,10000
-797,Site Vitrine,7,Premium,1,0,1,0,1,0,40,New Client,7000
-798,Site Vitrine,13,Standard,0,0,0,1,0,0,14,New Client,7000
-799,Landing Page,1,Premium,1,0,0,1,0,1,10,New Client,6600
-800,Landing Page,3,Basic,0,0,0,1,0,0,18,New Client,3300
-801,Landing Page,1,Premium,1,0,0,1,1,1,29,New Client,6200
-802,Site Vitrine,15,Standard,0,0,0,0,1,0,24,New Client,6500
-803,Site Vitrine,20,Standard,0,0,0,0,1,0,11,New Client,8600
-804,Site Vitrine,17,Basic,0,0,0,0,0,0,23,New Client,4400
-805,Site Vitrine,10,Premium,1,0,0,1,1,1,59,New Client,8100
-806,Site Vitrine,15,Basic,1,1,1,0,0,1,14,New Client,8400
-807,Site Vitrine,16,Standard,0,0,0,1,1,1,22,New Client,7100
-808,Landing Page,1,Basic,1,0,0,0,0,0,27,Returning Client,3300
-809,Site Vitrine,17,Basic,0,0,0,0,0,1,47,New Client,5700
-810,E-commerce,26,Basic,1,1,1,1,1,0,35,Returning Client,10000
-811,Landing Page,2,Basic,0,0,0,0,0,1,12,New Client,3300
-812,Site Vitrine,20,Standard,0,0,0,1,0,0,56,Returning Client,5200
-813,Landing Page,2,Standard,0,0,0,0,1,1,28,New Client,4400
-814,Site Vitrine,5,Basic,1,0,0,1,1,1,45,Returning Client,6200
-815,E-commerce,46,Standard,1,1,1,0,0,0,25,New Client,10000
-816,Site Vitrine,9,Basic,0,1,1,0,0,0,21,Returning Client,8400
-817,Landing Page,1,Basic,1,0,0,1,0,1,15,Returning Client,4000
-818,Site Vitrine,4,Standard,0,0,0,0,0,0,22,New Client,5800
-819,E-commerce,50,Basic,1,1,1,1,1,0,50,New Client,10000
-820,Site Vitrine,13,Standard,1,0,0,0,1,0,18,New Client,7000
-821,Site Vitrine,18,Basic,1,0,1,1,1,0,26,Returning Client,8300
-822,E-commerce,16,Standard,1,1,1,0,0,0,66,New Client,10000
-823,Site Vitrine,17,Standard,0,0,0,0,0,1,35,New Client,7500
-824,E-commerce,31,Standard,1,1,1,1,0,1,68,VIP Client,9400
-825,Site Vitrine,4,Standard,1,1,1,0,0,1,30,New Client,9300
-826,Site Vitrine,20,Standard,1,0,0,0,1,1,48,New Client,6000
-827,Landing Page,3,Standard,0,0,1,1,1,1,19,New Client,5000
-828,Site Vitrine,19,Premium,1,0,0,1,1,0,12,Returning Client,7700
-829,Landing Page,3,Basic,0,0,0,0,1,1,20,New Client,3400
-830,E-commerce,41,Premium,1,1,1,0,0,0,55,New Client,10000
-831,Landing Page,2,Standard,1,0,1,1,0,0,9,New Client,5700
-832,Site Vitrine,16,Basic,0,0,0,0,0,0,22,VIP Client,3700
-833,Site Vitrine,4,Basic,1,0,0,1,0,0,29,New Client,6500
-834,Site Vitrine,17,Basic,0,0,0,1,1,1,45,New Client,5100
-835,Site Vitrine,6,Premium,1,0,0,0,1,1,45,Returning Client,6300
-836,Site Vitrine,13,Basic,1,0,0,0,0,1,19,Returning Client,5900
-837,Site Vitrine,6,Basic,0,0,0,0,1,1,51,New Client,5500
-838,E-commerce,41,Premium,0,1,1,1,0,1,86,Returning Client,10000
-839,Landing Page,3,Premium,1,0,0,1,1,1,20,VIP Client,6100
-840,Site Vitrine,5,Basic,0,0,0,0,1,1,43,New Client,5000
-841,E-commerce,28,Basic,0,1,1,1,1,0,48,Returning Client,10000
-842,Site Vitrine,20,Basic,1,0,0,1,0,1,49,New Client,7000
-843,E-commerce,38,Premium,0,1,1,1,1,1,26,New Client,10000
-844,Site Vitrine,8,Basic,1,0,1,1,0,0,49,New Client,7200
-845,E-commerce,15,Standard,1,1,1,0,1,1,67,New Client,10000
-846,E-commerce,41,Standard,1,1,1,1,1,0,89,New Client,10000
-847,Site Vitrine,14,Standard,0,0,0,1,1,0,51,New Client,7500
-848,E-commerce,23,Standard,1,1,1,1,1,0,77,New Client,10000
-849,Site Vitrine,5,Premium,0,0,0,1,0,1,13,New Client,6200
-850,E-commerce,22,Premium,1,1,1,1,1,0,44,New Client,10000
-851,Site Vitrine,18,Standard,1,0,1,0,0,0,55,Returning Client,7700
-852,Site Vitrine,4,Basic,1,0,0,1,1,1,30,Returning Client,5400
-853,E-commerce,27,Basic,1,1,1,1,1,0,74,New Client,10000
-854,Site Vitrine,9,Basic,0,0,0,0,1,0,28,New Client,4800
-855,Site Vitrine,12,Basic,0,0,1,0,0,0,33,Returning Client,5900
-856,Landing Page,1,Standard,0,0,0,0,1,1,10,Returning Client,4000
-857,Site Vitrine,4,Basic,0,0,0,0,1,0,18,New Client,5900
-858,Site Vitrine,10,Basic,0,0,0,1,0,1,14,New Client,5500
-859,Site Vitrine,14,Standard,0,0,0,0,1,1,59,New Client,6700
-860,E-commerce,50,Standard,1,1,1,1,0,1,80,New Client,10000
-861,Site Vitrine,11,Basic,1,0,0,0,0,1,60,Returning Client,5400
-862,E-commerce,45,Standard,1,1,1,0,1,0,49,New Client,10000
-863,E-commerce,27,Standard,1,1,1,0,0,0,46,Returning Client,10000
-864,Site Vitrine,15,Premium,1,0,0,1,1,1,18,New Client,9100
-865,Site Vitrine,15,Basic,0,0,0,0,0,1,20,New Client,4500
-866,Site Vitrine,13,Standard,0,1,1,0,0,1,56,New Client,8900
-867,Site Vitrine,7,Standard,1,0,0,0,1,0,33,New Client,6800
-868,Site Vitrine,19,Basic,1,0,1,1,0,0,14,New Client,8700
-869,E-commerce,26,Standard,1,1,1,0,1,1,58,New Client,10000
-870,Site Vitrine,9,Basic,1,0,0,1,1,1,56,New Client,5500
-871,Landing Page,3,Basic,1,0,0,0,1,1,18,New Client,3900
-872,Landing Page,2,Standard,0,0,0,0,1,1,18,New Client,4400
-873,E-commerce,45,Premium,1,1,1,0,0,0,22,Returning Client,10000
-874,Landing Page,1,Standard,0,0,0,1,0,1,17,New Client,3900
-875,E-commerce,48,Standard,0,1,1,1,1,1,46,New Client,10000
-876,Site Vitrine,12,Standard,0,1,1,0,1,0,31,New Client,8800
-877,E-commerce,32,Standard,1,1,1,0,1,1,38,New Client,10000
-878,Site Vitrine,14,Basic,1,0,0,0,0,1,47,New Client,6500
-879,Site Vitrine,17,Standard,0,0,0,1,1,0,20,New Client,7800
-880,Site Vitrine,11,Basic,1,0,0,0,1,1,16,Returning Client,4800
-881,Site Vitrine,10,Standard,0,0,0,0,0,0,48,New Client,6300
-882,Site Vitrine,14,Standard,0,0,0,0,0,1,36,New Client,5300
-883,E-commerce,11,Premium,1,1,1,0,0,1,17,Returning Client,10000
-884,E-commerce,40,Standard,1,1,1,0,0,1,62,New Client,10000
-885,E-commerce,35,Standard,1,1,1,0,1,1,63,Returning Client,10000
-886,Site Vitrine,20,Standard,1,1,1,1,1,1,59,Returning Client,9800
-887,Landing Page,3,Basic,1,0,0,1,0,0,16,New Client,4600
-888,Landing Page,1,Premium,1,0,0,1,0,1,28,New Client,6000
-889,Site Vitrine,16,Standard,0,0,0,0,1,0,35,New Client,7500
-890,E-commerce,46,Premium,1,1,1,0,1,0,36,Returning Client,10000
-891,Site Vitrine,5,Premium,1,0,0,1,1,0,52,New Client,7300
-892,Site Vitrine,19,Basic,0,1,1,0,1,1,37,New Client,8600
-893,Landing Page,1,Basic,0,0,0,0,0,0,8,New Client,2900
-894,E-commerce,20,Standard,1,1,1,1,1,0,86,New Client,10000
-895,E-commerce,23,Standard,0,1,1,1,0,0,84,Returning Client,10000
-896,E-commerce,44,Premium,0,1,1,0,1,0,35,New Client,10000
-897,E-commerce,21,Standard,0,1,1,1,1,1,22,New Client,10000
-898,Site Vitrine,10,Basic,1,0,0,0,1,0,41,New Client,6300
-899,Landing Page,2,Basic,0,0,0,1,1,1,12,New Client,4300
-900,Site Vitrine,20,Basic,1,0,0,0,1,0,51,Returning Client,4800
-901,Site Vitrine,13,Premium,1,0,0,1,1,0,38,New Client,8500
-902,Landing Page,1,Basic,1,0,0,1,0,0,19,Returning Client,4400
-903,Site Vitrine,8,Standard,1,0,0,1,0,1,36,Returning Client,7000
-904,E-commerce,42,Premium,1,1,1,1,0,1,86,New Client,10000
-905,Site Vitrine,16,Standard,1,0,0,0,1,1,45,New Client,7000
-906,Landing Page,1,Standard,1,0,0,0,1,1,25,Returning Client,4200
-907,Site Vitrine,7,Basic,0,0,0,0,1,0,31,New Client,4600
-908,Landing Page,3,Basic,1,0,0,1,1,0,28,New Client,4400
-909,Site Vitrine,18,Standard,1,0,0,1,0,0,34,New Client,5700
-910,E-commerce,47,Premium,1,1,1,1,1,0,60,New Client,10000
-911,Site Vitrine,14,Basic,0,0,0,1,0,1,41,New Client,5300
-912,Site Vitrine,16,Basic,0,0,0,1,0,1,24,Returning Client,4500
-913,Site Vitrine,11,Basic,1,0,0,0,0,1,40,Returning Client,5200
-914,Site Vitrine,15,Basic,1,0,0,1,1,0,56,New Client,5500
-915,E-commerce,35,Premium,1,1,1,0,0,0,17,New Client,10000
-916,Site Vitrine,9,Premium,1,0,0,0,1,0,33,New Client,6600
-917,Landing Page,3,Standard,0,0,0,0,0,0,13,Returning Client,3600
-918,Site Vitrine,4,Basic,0,0,0,0,1,1,40,Returning Client,4400
-919,E-commerce,48,Basic,1,1,1,0,1,0,41,New Client,10000
-920,Site Vitrine,8,Premium,1,0,0,1,1,0,41,Returning Client,5300
-921,E-commerce,39,Premium,1,1,1,1,0,1,39,Returning Client,10000
-922,E-commerce,22,Premium,1,1,1,1,1,1,41,New Client,10000
-923,E-commerce,40,Premium,1,1,1,0,0,0,77,Returning Client,10000
-924,Landing Page,3,Basic,1,0,0,0,0,1,18,New Client,3100
-925,Site Vitrine,16,Basic,0,1,1,0,1,1,48,New Client,8500
-926,Site Vitrine,6,Standard,0,0,0,1,0,1,15,New Client,6600
-927,Landing Page,1,Basic,1,0,0,1,0,0,30,New Client,3700
-928,Site Vitrine,17,Basic,1,0,0,0,1,1,40,Returning Client,4800
-929,Landing Page,1,Premium,1,0,0,0,0,0,22,New Client,4300
-930,Site Vitrine,10,Standard,1,1,1,1,1,1,22,New Client,9700
-931,E-commerce,50,Premium,1,1,1,0,1,0,63,New Client,10000
-932,Site Vitrine,17,Basic,1,1,1,0,1,1,22,New Client,8100
-933,E-commerce,39,Premium,1,1,1,1,1,1,90,Returning Client,10000
-934,Site Vitrine,8,Basic,1,0,0,0,1,0,13,New Client,5600
-935,E-commerce,25,Standard,1,1,1,1,1,1,42,Returning Client,10000
-936,E-commerce,34,Standard,1,1,1,0,1,1,56,Returning Client,10000
-937,E-commerce,47,Standard,1,1,1,1,1,0,59,Returning Client,10000
-938,Landing Page,1,Basic,1,0,0,0,0,1,16,New Client,3600
-939,Site Vitrine,6,Basic,1,0,0,1,1,0,50,Returning Client,5300
-940,Site Vitrine,7,Basic,1,0,0,1,0,1,37,New Client,6200
-941,Site Vitrine,10,Standard,0,1,1,1,0,0,21,New Client,8500
-942,Site Vitrine,8,Premium,1,0,0,1,0,0,39,Returning Client,6500
-943,Site Vitrine,13,Basic,1,1,1,1,1,0,26,Returning Client,9900
-944,Site Vitrine,8,Standard,1,0,0,0,0,1,55,Returning Client,5600
-945,Landing Page,2,Standard,1,0,0,0,1,1,30,New Client,4200
-946,Site Vitrine,18,Standard,0,0,0,0,1,0,29,Returning Client,4900
-947,Site Vitrine,19,Premium,1,0,0,1,1,0,55,New Client,9000
-948,Landing Page,2,Basic,1,0,0,1,1,0,19,New Client,3800
-949,E-commerce,11,Standard,1,1,1,1,1,1,19,New Client,10000
-950,E-commerce,17,Premium,1,1,1,0,1,1,29,New Client,10000
-951,Site Vitrine,18,Premium,1,0,0,1,1,1,39,New Client,8200
-952,Landing Page,2,Standard,1,0,0,0,1,1,22,New Client,4300
-953,Site Vitrine,16,Basic,0,0,0,1,1,1,52,VIP Client,5800
-954,Site Vitrine,20,Basic,1,0,0,0,0,0,15,Returning Client,5000
-955,Site Vitrine,15,Basic,1,0,0,0,1,0,13,New Client,7900
-956,Landing Page,3,Basic,1,0,0,1,1,1,21,New Client,5200
-957,Site Vitrine,10,Standard,0,0,0,0,1,0,30,New Client,5800
-958,E-commerce,15,Standard,1,1,1,1,1,1,44,Returning Client,10000
-959,Site Vitrine,13,Premium,1,0,0,1,0,0,26,New Client,7300
-960,Landing Page,3,Basic,0,0,0,0,1,1,13,New Client,3600
-961,E-commerce,30,Premium,1,1,1,1,1,0,27,New Client,10000
-962,Landing Page,2,Basic,1,0,0,0,1,1,20,New Client,4900
-963,E-commerce,18,Standard,0,1,1,1,1,1,42,New Client,10000
-964,Site Vitrine,6,Basic,1,1,1,1,0,0,42,Returning Client,7800
-965,Site Vitrine,10,Basic,1,0,0,0,0,1,40,New Client,4300
-966,Site Vitrine,20,Basic,1,0,0,1,0,1,35,New Client,7600
-967,Landing Page,2,Standard,0,0,0,1,0,0,17,New Client,3900
-968,E-commerce,27,Premium,1,1,1,1,1,1,49,New Client,10000
-969,Site Vitrine,14,Standard,0,0,0,1,1,1,39,New Client,5800
-970,Site Vitrine,9,Basic,1,0,0,1,0,1,45,New Client,5900
-971,Site Vitrine,10,Premium,1,0,0,0,0,1,50,Returning Client,5400
-972,Site Vitrine,14,Basic,1,0,0,0,0,1,14,New Client,5900
-973,Site Vitrine,10,Standard,1,0,0,0,0,1,23,New Client,5800
-974,Site Vitrine,20,Premium,1,1,1,0,0,1,29,New Client,10000
-975,Site Vitrine,8,Basic,0,0,0,0,1,0,22,New Client,5500
-976,E-commerce,10,Premium,1,1,1,1,0,1,32,VIP Client,10000
-977,Site Vitrine,6,Standard,1,0,0,1,0,1,10,New Client,7700
-978,E-commerce,15,Standard,0,1,1,0,1,1,75,New Client,10000
-979,Site Vitrine,11,Basic,0,0,0,0,0,1,57,Returning Client,5300
-980,Site Vitrine,4,Basic,0,0,0,0,1,0,37,New Client,5300
-981,Landing Page,3,Standard,0,0,0,1,0,0,22,New Client,3600
-982,Site Vitrine,7,Basic,1,0,0,0,1,1,23,New Client,4800
-983,Site Vitrine,6,Standard,0,0,0,0,1,1,28,Returning Client,5900
-984,Landing Page,3,Basic,0,0,0,0,1,1,20,New Client,3500
-985,Site Vitrine,15,Premium,1,0,0,1,1,1,31,New Client,7100
-986,Site Vitrine,5,Standard,1,0,0,0,1,0,35,New Client,6100
-987,Site Vitrine,19,Basic,1,0,0,0,0,0,55,Returning Client,4600
-988,Site Vitrine,8,Basic,1,0,0,0,1,1,19,Returning Client,4200
-989,Site Vitrine,20,Basic,0,0,0,0,1,0,27,Returning Client,5400
-990,Site Vitrine,7,Standard,1,0,0,0,1,1,20,New Client,6200
-991,Landing Page,2,Standard,0,0,0,0,1,1,18,New Client,4100
-992,Landing Page,3,Standard,0,0,0,0,0,0,8,New Client,3200
-993,Site Vitrine,17,Basic,0,1,1,0,1,0,12,New Client,9300
-994,E-commerce,35,Basic,0,1,1,1,1,0,76,New Client,10000
-995,Site Vitrine,18,Premium,1,0,0,0,1,1,24,Returning Client,7800
-996,Site Vitrine,5,Basic,1,0,0,0,0,1,50,New Client,5000
-997,E-commerce,17,Premium,1,1,1,1,1,1,43,New Client,10000
-998,Site Vitrine,10,Standard,0,1,1,1,0,1,57,Returning Client,7700
-999,Site Vitrine,4,Standard,0,0,0,0,0,0,32,VIP Client,5000
-1000,E-commerce,30,Premium,1,1,1,1,1,0,58,Returning Client,10000
+1,Site Vitrine,12,Standard,1,0,0,0,0,0,46,Returning Client,3288.16
+2,E-commerce,14,Standard,0,1,1,0,1,1,77,New Client,5253.17
+3,Site Vitrine,4,Basic,0,0,0,1,1,0,47,New Client,3247.34
+4,Site Vitrine,4,Standard,1,0,0,0,1,1,69,New Client,3625.55
+5,Site Vitrine,7,Basic,0,1,1,0,0,0,14,New Client,4464.7
+6,Site Vitrine,5,Premium,1,1,1,1,0,0,13,New Client,5493.03
+7,Application Web,51,Premium,0,0,0,0,1,1,35,Returning Client,6000
+8,Site Vitrine,9,Standard,0,0,0,0,1,1,31,New Client,3336.3
+9,E-commerce,37,Basic,1,1,1,0,1,0,21,Returning Client,5989.11
+10,E-commerce,13,Basic,1,1,1,1,0,0,81,New Client,5281.68
+11,E-commerce,36,Standard,1,1,1,0,0,0,80,New Client,6000
+12,Site Vitrine,6,Standard,0,1,1,1,1,1,9,New Client,4860.45
+13,Application Web,18,Standard,1,0,0,0,1,1,64,VIP Client,4944.31
+14,Site Vitrine,9,Premium,0,0,0,1,1,1,33,New Client,4143.99
+15,Site Vitrine,7,Basic,1,0,0,0,1,1,38,New Client,3446.57
+16,Application Web,17,Premium,0,0,0,0,1,1,58,New Client,5952.63
+17,Site Vitrine,15,Standard,0,0,0,0,1,1,21,New Client,3777.47
+18,E-commerce,34,Standard,0,1,1,0,1,1,44,VIP Client,5697.73
+19,E-commerce,28,Basic,0,1,1,1,1,1,14,Returning Client,6000
+20,E-commerce,23,Premium,1,1,1,1,1,1,31,Returning Client,6000
+21,Site Vitrine,13,Standard,0,0,0,0,1,1,42,Returning Client,3339.17
+22,Site Vitrine,7,Basic,0,0,0,0,1,1,19,New Client,3420.16
+23,Landing Page,2,Premium,1,0,0,1,1,1,54,New Client,3406.09
+24,Application Web,50,Standard,0,0,0,1,1,1,12,New Client,6000
+25,E-commerce,40,Standard,1,1,1,0,1,0,52,New Client,6000
+26,Application Web,36,Premium,0,0,0,1,0,0,33,New Client,6000
+27,E-commerce,26,Standard,0,1,1,0,0,0,32,New Client,5724.33
+28,E-commerce,36,Premium,0,1,1,1,1,1,77,New Client,6000
+29,E-commerce,17,Standard,1,1,0,1,0,0,71,New Client,5605.47
+30,E-commerce,37,Basic,1,1,1,1,1,0,63,Returning Client,5772.85
+31,Site Vitrine,10,Standard,1,1,1,1,1,0,77,Returning Client,4595.24
+32,Landing Page,3,Basic,0,0,0,0,0,0,35,New Client,2087.95
+33,Site Vitrine,7,Basic,0,0,0,0,1,1,72,New Client,3082.2
+34,Application Web,22,Standard,0,0,0,0,1,1,9,New Client,6000
+35,E-commerce,33,Standard,1,1,1,1,0,0,43,New Client,6000
+36,E-commerce,13,Standard,0,1,1,0,1,1,27,VIP Client,4964.43
+37,E-commerce,14,Standard,0,1,0,0,1,0,55,New Client,5087.65
+38,Landing Page,3,Basic,1,0,0,1,0,0,49,Returning Client,2416.04
+39,E-commerce,40,Basic,1,1,1,0,0,0,47,New Client,6000
+40,Landing Page,2,Premium,0,0,0,1,1,1,48,Returning Client,2989.17
+41,E-commerce,16,Standard,1,1,1,0,1,0,71,New Client,5790.01
+42,E-commerce,26,Basic,0,1,1,0,1,1,8,New Client,6000
+43,Landing Page,2,Standard,1,0,0,0,0,0,45,New Client,2577.31
+44,Site Vitrine,9,Standard,0,0,0,0,0,0,76,New Client,3118.53
+45,Landing Page,2,Premium,0,0,0,1,0,0,62,New Client,3092.84
+46,Application Web,58,Premium,1,0,0,0,1,1,80,Returning Client,6000
+47,E-commerce,22,Basic,0,1,0,1,1,1,67,Returning Client,4808.62
+48,Landing Page,2,Basic,1,0,0,0,0,0,8,New Client,2851.56
+49,E-commerce,37,Basic,1,1,1,0,0,0,33,New Client,5854.21
+50,Site Vitrine,11,Premium,0,1,1,1,1,0,39,New Client,5069.64
+51,Landing Page,3,Premium,0,0,0,1,0,0,71,New Client,2826.29
+52,Landing Page,1,Basic,1,0,0,0,0,0,7,Returning Client,2611.39
+53,E-commerce,32,Basic,1,1,1,0,1,0,55,New Client,5849.92
+54,Site Vitrine,6,Standard,0,0,0,1,0,0,86,New Client,3227.58
+55,Site Vitrine,15,Basic,1,0,0,0,1,0,26,New Client,3498.4
+56,Site Vitrine,15,Premium,0,1,1,0,1,0,25,New Client,5301.2
+57,Site Vitrine,6,Standard,0,0,0,0,1,1,44,New Client,3289.92
+58,Site Vitrine,10,Premium,0,0,0,1,0,0,45,New Client,3883.91
+59,E-commerce,13,Standard,0,1,1,0,1,1,17,New Client,5810.33
+60,Site Vitrine,12,Basic,1,0,0,1,0,0,35,New Client,3398.24
+61,Site Vitrine,5,Standard,0,0,0,0,0,0,46,Returning Client,2872.04
+62,E-commerce,39,Standard,1,1,1,1,0,0,55,Returning Client,5904.67
+63,Landing Page,2,Premium,0,0,0,1,0,0,51,New Client,3172.24
+64,E-commerce,38,Basic,0,1,1,0,1,1,38,New Client,5803.26
+65,Site Vitrine,6,Premium,0,0,0,0,1,1,90,Returning Client,3417.17
+66,Site Vitrine,4,Basic,0,0,0,0,1,1,90,New Client,3016.65
+67,Site Vitrine,7,Basic,1,0,0,0,1,1,86,Returning Client,2969.28
+68,E-commerce,28,Standard,1,1,1,0,1,0,44,New Client,6000
+69,Landing Page,2,Standard,1,0,0,0,0,0,26,New Client,2742.98
+70,Landing Page,3,Standard,1,0,0,0,1,0,24,Returning Client,2730.54
+71,E-commerce,15,Premium,1,1,1,0,0,0,60,Returning Client,5489.53
+72,Site Vitrine,4,Standard,0,0,0,0,1,1,82,Returning Client,3239.37
+73,Site Vitrine,13,Basic,1,1,0,0,0,0,71,New Client,3738.36
+74,Site Vitrine,11,Basic,0,0,0,0,1,0,64,New Client,3062.5
+75,Site Vitrine,9,Premium,1,0,0,1,0,0,58,New Client,4098.85
+76,Site Vitrine,9,Standard,0,0,0,0,0,0,80,New Client,3235.83
+77,Site Vitrine,9,Standard,1,0,0,0,0,0,43,New Client,3622.32
+78,Application Web,23,Basic,1,0,0,0,1,0,12,New Client,6000
+79,E-commerce,16,Standard,1,1,1,1,1,1,20,New Client,6000
+80,Landing Page,3,Standard,1,0,0,0,1,1,72,New Client,2982.13
+81,E-commerce,20,Standard,0,1,1,1,1,1,31,New Client,6000
+82,Site Vitrine,13,Basic,0,0,0,0,1,1,39,New Client,3391.29
+83,Site Vitrine,4,Basic,1,0,0,1,1,1,88,New Client,3393.66
+84,E-commerce,16,Premium,1,1,1,1,1,1,70,Returning Client,6000
+85,Site Vitrine,11,Basic,0,0,0,0,0,0,50,New Client,3097.83
+86,Site Vitrine,5,Premium,0,0,0,1,1,0,39,Returning Client,3705.79
+87,E-commerce,25,Standard,1,1,1,0,0,0,54,New Client,5893.43
+88,Landing Page,1,Basic,0,0,0,1,1,1,25,Returning Client,2691.12
+89,Application Web,48,Standard,1,0,0,0,1,1,46,New Client,6000
+90,E-commerce,34,Basic,1,1,1,0,1,0,15,New Client,6000
+91,E-commerce,24,Basic,0,1,1,0,1,1,54,New Client,5564.5
+92,E-commerce,8,Premium,0,1,1,1,1,1,26,New Client,6000
+93,Site Vitrine,11,Basic,0,0,0,0,0,0,83,New Client,2933.52
+94,E-commerce,9,Standard,0,1,1,1,0,0,88,New Client,5443.79
+95,Application Web,36,Standard,0,0,0,0,0,0,90,Returning Client,5383.59
+96,E-commerce,20,Standard,1,1,1,0,1,1,24,Returning Client,5945.7
+97,Site Vitrine,4,Standard,0,0,0,0,1,1,82,New Client,3329.31
+98,Site Vitrine,10,Basic,0,0,0,0,0,0,67,New Client,2777.38
+99,Site Vitrine,15,Standard,0,0,0,0,0,0,86,New Client,3345.47
+100,Landing Page,3,Basic,1,0,0,1,0,0,39,New Client,2527.94
+101,Site Vitrine,4,Premium,1,1,1,0,0,0,40,New Client,4748.7
+102,Site Vitrine,7,Standard,1,0,0,0,1,1,82,New Client,3578.83
+103,E-commerce,26,Basic,1,1,0,1,1,1,40,New Client,5657.87
+104,Site Vitrine,9,Standard,1,0,0,1,1,1,84,New Client,3969.55
+105,Site Vitrine,6,Standard,0,0,0,0,1,1,35,New Client,3453.25
+106,Site Vitrine,6,Basic,1,0,0,0,1,1,37,New Client,3289.67
+107,Site Vitrine,9,Standard,1,0,0,1,1,1,22,New Client,4208.08
+108,Site Vitrine,13,Standard,0,0,0,0,1,1,64,New Client,3623.92
+109,Application Web,42,Standard,1,0,0,0,0,0,47,Returning Client,5727.32
+110,Site Vitrine,7,Standard,0,0,0,0,1,1,84,Returning Client,3074.73
+111,Landing Page,1,Basic,0,0,0,1,0,0,35,New Client,2350.44
+112,Site Vitrine,12,Standard,1,0,0,1,1,1,72,Returning Client,3724.82
+113,Site Vitrine,12,Premium,1,0,0,1,0,0,12,New Client,4342.63
+114,Landing Page,2,Basic,0,0,0,0,1,1,14,New Client,2936.9
+115,Site Vitrine,4,Basic,0,1,1,0,1,1,41,New Client,4153.13
+116,Landing Page,3,Basic,1,0,0,0,1,0,45,New Client,2554.6
+117,Site Vitrine,12,Basic,0,0,0,0,1,1,65,Returning Client,2906.58
+118,Landing Page,2,Standard,0,0,0,0,1,1,37,Returning Client,2567.66
+119,Application Web,12,Standard,0,0,0,0,1,1,69,New Client,5273.08
+120,Site Vitrine,14,Standard,1,0,0,0,0,0,72,Returning Client,3345.94
+121,Landing Page,3,Standard,0,0,0,1,1,1,54,New Client,2807.76
+122,Landing Page,3,Standard,1,0,0,0,1,1,30,New Client,3061.06
+123,Landing Page,2,Premium,0,0,0,1,1,1,85,New Client,3169.89
+124,E-commerce,9,Standard,1,1,1,0,0,0,71,New Client,5379.18
+125,Site Vitrine,12,Basic,0,0,0,1,1,0,52,New Client,3258.67
+126,Landing Page,3,Premium,1,0,0,1,1,0,15,VIP Client,3440.98
+127,Landing Page,1,Basic,1,0,0,0,1,0,51,New Client,2574.73
+128,Landing Page,1,Premium,1,0,0,1,1,0,65,New Client,3282.34
+129,E-commerce,11,Basic,1,1,1,0,0,0,45,New Client,5144.84
+130,Landing Page,3,Standard,1,0,0,0,0,0,14,New Client,3242.27
+131,Site Vitrine,10,Standard,1,0,0,0,1,0,79,New Client,3555.11
+132,Landing Page,1,Premium,1,0,0,1,0,0,39,Returning Client,3060.62
+133,Landing Page,1,Premium,1,0,0,0,0,0,49,Returning Client,3044.52
+134,Landing Page,3,Premium,0,0,0,1,1,1,15,VIP Client,3465.17
+135,Application Web,44,Premium,1,0,0,1,1,1,14,Returning Client,6000
+136,Landing Page,1,Basic,1,0,0,0,1,1,27,Returning Client,2570.55
+137,Site Vitrine,15,Standard,1,0,0,0,1,1,59,New Client,4048.91
+138,Landing Page,3,Basic,0,0,0,0,1,1,12,Returning Client,2772.87
+139,Site Vitrine,15,Basic,0,0,0,0,1,1,75,Returning Client,2984.66
+140,E-commerce,13,Standard,0,1,1,0,0,0,27,New Client,5678.15
+141,Site Vitrine,11,Basic,0,0,0,0,0,0,12,New Client,3300.09
+142,Site Vitrine,6,Basic,1,0,0,0,1,1,11,New Client,3788.29
+143,E-commerce,28,Standard,1,1,1,0,1,1,37,New Client,6000
+144,Site Vitrine,8,Basic,0,0,0,0,0,0,52,New Client,3023.96
+145,Site Vitrine,14,Basic,0,1,1,0,1,1,30,Returning Client,4232.38
+146,Site Vitrine,7,Premium,1,0,0,0,1,1,58,New Client,4247.46
+147,Site Vitrine,7,Basic,1,0,0,0,1,1,55,New Client,3510.52
+148,Site Vitrine,11,Standard,1,0,0,1,0,0,16,Returning Client,3641.52
+149,E-commerce,30,Basic,1,1,1,1,1,1,85,Returning Client,6000
+150,Site Vitrine,14,Premium,1,0,0,0,1,1,21,New Client,4269.46
+151,Application Web,12,Premium,0,1,0,0,0,0,39,New Client,6000
+152,Application Web,49,Standard,0,1,1,0,1,1,41,New Client,6000
+153,E-commerce,30,Premium,0,1,1,1,1,1,24,New Client,6000
+154,Site Vitrine,5,Basic,0,0,0,0,1,0,80,New Client,2764.04
+155,Application Web,19,Premium,1,0,0,1,1,1,63,Returning Client,5800.02
+156,Site Vitrine,6,Basic,0,0,0,0,1,1,11,New Client,3558.56
+157,Landing Page,3,Basic,1,0,0,0,1,1,76,New Client,2505.37
+158,Landing Page,1,Basic,1,0,0,1,1,1,83,New Client,2689
+159,Landing Page,3,Basic,1,0,0,0,0,0,64,New Client,2355.71
+160,Site Vitrine,11,Premium,0,0,0,0,0,0,25,New Client,4008.28
+161,Site Vitrine,4,Basic,1,0,0,0,1,1,77,New Client,3234.16
+162,Landing Page,2,Premium,1,0,0,1,1,1,57,Returning Client,3393.1
+163,Landing Page,1,Standard,1,0,0,1,1,1,9,New Client,3577.01
+164,Application Web,20,Premium,0,0,0,1,1,1,69,New Client,6000
+165,Landing Page,1,Standard,0,0,0,1,0,0,45,New Client,2620.51
+166,Application Web,38,Premium,0,0,0,1,0,0,53,Returning Client,5829.42
+167,Site Vitrine,15,Standard,0,0,0,1,1,1,19,VIP Client,3712.03
+168,Site Vitrine,6,Premium,1,0,1,1,0,0,47,New Client,4094.28
+169,Site Vitrine,5,Standard,0,0,0,0,1,0,7,New Client,3765.31
+170,Landing Page,1,Premium,1,0,0,0,0,0,56,New Client,3160.83
+171,Site Vitrine,6,Standard,1,0,0,0,0,0,7,New Client,3696.55
+172,E-commerce,35,Basic,1,1,1,0,1,0,10,Returning Client,5954.34
+173,Landing Page,3,Standard,1,0,0,0,1,0,65,New Client,2812.25
+174,Site Vitrine,9,Standard,0,0,0,0,1,0,68,New Client,3388.13
+175,Landing Page,2,Basic,0,0,0,0,1,1,23,New Client,2672.2
+176,Landing Page,3,Standard,1,0,0,1,1,1,26,New Client,3172.1
+177,E-commerce,23,Standard,1,1,1,0,1,1,9,New Client,6000
+178,Site Vitrine,4,Basic,0,0,0,1,1,1,42,Returning Client,3218.18
+179,Site Vitrine,6,Premium,1,1,1,0,1,1,57,Returning Client,4814.78
+180,E-commerce,25,Premium,0,1,1,1,0,0,73,New Client,6000
+181,Application Web,51,Standard,1,0,0,0,1,1,48,New Client,6000
+182,Site Vitrine,7,Basic,0,0,0,0,0,0,46,New Client,2912.45
+183,Landing Page,1,Standard,0,0,0,0,0,0,64,New Client,2210.36
+184,Application Web,51,Premium,0,0,0,1,0,0,40,New Client,6000
+185,E-commerce,10,Standard,1,1,1,0,0,0,31,VIP Client,5111.15
+186,Site Vitrine,12,Standard,0,0,0,0,0,0,24,New Client,3501.3
+187,E-commerce,18,Premium,0,1,1,1,0,0,72,New Client,5690.29
+188,Site Vitrine,5,Premium,0,0,0,1,1,1,9,New Client,4451.74
+189,E-commerce,37,Premium,1,1,1,1,0,0,41,VIP Client,5858.24
+190,E-commerce,16,Standard,1,1,1,1,0,0,57,New Client,5789.77
+191,Landing Page,2,Premium,1,0,0,1,1,0,49,Returning Client,3155.61
+192,Application Web,27,Standard,1,1,1,1,1,1,14,New Client,6000
+193,E-commerce,9,Standard,0,1,1,0,1,1,57,New Client,5593.12
+194,Site Vitrine,12,Premium,0,0,0,0,0,0,90,New Client,3453.48
+195,Landing Page,1,Standard,0,0,0,0,1,1,63,VIP Client,2402.12
+196,Site Vitrine,8,Premium,0,0,0,0,0,0,15,New Client,4107.47
+197,E-commerce,11,Standard,1,1,1,0,1,1,13,Returning Client,6000
+198,Site Vitrine,4,Standard,1,0,0,1,1,0,62,New Client,3572.44
+199,Site Vitrine,10,Basic,1,0,0,1,1,1,22,New Client,3757.63
+200,E-commerce,17,Basic,0,1,1,1,0,0,23,New Client,5463.69
+201,Site Vitrine,9,Basic,0,0,0,1,1,0,66,New Client,3244.05
+202,Site Vitrine,8,Standard,1,0,0,0,1,1,33,Returning Client,3642.3
+203,E-commerce,39,Basic,1,1,1,0,1,0,73,New Client,6000
+204,Landing Page,3,Basic,1,0,0,1,0,0,37,Returning Client,2547.14
+205,Landing Page,1,Standard,1,0,0,0,1,1,36,New Client,2944.1
+206,Landing Page,3,Standard,0,0,0,0,1,0,10,New Client,2982.18
+207,Site Vitrine,12,Basic,0,0,0,1,1,1,12,Returning Client,3719.33
+208,Site Vitrine,10,Standard,0,0,0,0,0,0,80,New Client,3035.42
+209,Site Vitrine,6,Standard,0,1,1,0,0,0,17,New Client,4444.26
+210,Site Vitrine,7,Basic,0,0,0,1,0,0,35,New Client,3013.25
+211,Landing Page,1,Standard,1,0,0,0,1,1,13,Returning Client,3174.84
+212,E-commerce,17,Standard,0,1,1,0,1,1,55,Returning Client,5610.94
+213,E-commerce,15,Standard,1,1,1,0,1,0,29,New Client,5869.22
+214,Landing Page,3,Standard,0,0,0,0,0,0,64,New Client,2434.49
+215,Landing Page,1,Premium,0,0,0,1,1,1,36,New Client,3300.72
+216,Application Web,54,Standard,0,0,0,1,0,0,13,New Client,6000
+217,Site Vitrine,12,Premium,1,0,0,0,1,1,23,New Client,4232.98
+218,E-commerce,25,Premium,1,1,1,1,1,1,80,Returning Client,6000
+219,Landing Page,1,Standard,0,0,0,0,1,0,10,New Client,2883.96
+220,E-commerce,36,Basic,1,1,1,1,0,0,77,Returning Client,5898.48
+221,Landing Page,1,Basic,1,0,0,1,0,0,22,Returning Client,2686.63
+222,Landing Page,2,Basic,0,0,0,0,1,1,60,VIP Client,2121.87
+223,E-commerce,18,Premium,1,1,1,0,0,0,27,New Client,6000
+224,E-commerce,14,Basic,1,1,1,1,0,0,17,New Client,5562.97
+225,E-commerce,25,Standard,0,1,1,0,0,0,53,Returning Client,5262.11
+226,Site Vitrine,5,Basic,1,0,0,1,0,0,27,New Client,3586
+227,Landing Page,1,Standard,1,0,0,1,0,0,68,New Client,2806.61
+228,E-commerce,9,Standard,0,1,1,0,0,0,88,New Client,5042.16
+229,Site Vitrine,12,Standard,0,0,0,1,1,1,90,New Client,3610.84
+230,Landing Page,1,Standard,0,0,0,1,1,1,67,New Client,2787.19
+231,E-commerce,40,Standard,0,1,1,0,1,1,60,New Client,6000
+232,E-commerce,38,Basic,0,1,1,0,0,0,35,Returning Client,5276.65
+233,E-commerce,35,Standard,1,1,1,0,0,0,69,New Client,6000
+234,Site Vitrine,7,Basic,1,1,1,0,1,1,70,New Client,4428.49
+235,E-commerce,35,Basic,0,1,1,1,0,0,90,New Client,5641.95
+236,Site Vitrine,9,Premium,1,0,0,1,0,0,42,New Client,4117.18
+237,Site Vitrine,5,Basic,1,0,0,0,1,1,32,Returning Client,3080
+238,Site Vitrine,13,Standard,1,1,1,1,1,1,28,New Client,5339.57
+239,Site Vitrine,11,Standard,1,0,0,0,0,0,85,Returning Client,3134.55
+240,Landing Page,3,Basic,0,0,0,1,0,0,14,New Client,2720.3
+241,Site Vitrine,10,Basic,1,0,0,0,0,0,75,New Client,3191.25
+242,E-commerce,24,Standard,0,1,1,0,1,1,71,New Client,5788.1
+243,E-commerce,20,Standard,0,1,1,0,0,0,41,New Client,5624.67
+244,Site Vitrine,6,Standard,1,0,0,1,0,0,51,New Client,3591.32
+245,E-commerce,19,Basic,0,1,1,0,0,0,79,Returning Client,4900.31
+246,Site Vitrine,7,Standard,0,0,0,0,1,1,39,New Client,3536.1
+247,E-commerce,25,Basic,1,1,1,0,1,0,21,New Client,5968.93
+248,Site Vitrine,9,Standard,1,0,0,0,0,0,9,New Client,3752.52
+249,Site Vitrine,8,Basic,1,0,0,0,0,0,88,New Client,2941.75
+250,Site Vitrine,10,Premium,0,0,0,1,0,0,24,VIP Client,3628.1
+251,Application Web,12,Basic,0,0,0,0,1,1,84,VIP Client,4202.26
+252,E-commerce,10,Premium,1,1,1,0,0,0,63,New Client,5732.46
+253,Site Vitrine,11,Standard,1,0,0,1,1,1,51,New Client,4149.64
+254,Site Vitrine,15,Basic,1,0,0,0,1,1,33,Returning Client,3363.93
+255,Site Vitrine,15,Basic,1,0,0,0,0,0,58,Returning Client,3052.03
+256,Site Vitrine,15,Premium,1,0,0,0,0,0,60,New Client,3991.01
+257,Site Vitrine,10,Standard,1,0,0,1,0,0,16,New Client,3774.29
+258,Landing Page,3,Basic,0,0,0,0,0,0,34,New Client,2136.16
+259,Site Vitrine,8,Basic,1,0,1,0,1,1,85,Returning Client,3468.93
+260,Site Vitrine,15,Standard,1,0,0,1,0,0,79,New Client,3703.76
+261,Application Web,13,Basic,1,0,0,0,0,0,52,Returning Client,4895.79
+262,Site Vitrine,11,Standard,1,0,0,0,1,1,35,New Client,3876.03
+263,Site Vitrine,9,Standard,1,0,0,0,1,1,17,New Client,3721.24
+264,Landing Page,2,Standard,0,0,0,1,1,1,17,Returning Client,2881.98
+265,Site Vitrine,4,Standard,1,0,0,0,0,0,26,Returning Client,3423.98
+266,Site Vitrine,6,Basic,0,0,0,0,1,1,30,Returning Client,3012.99
+267,Site Vitrine,8,Standard,1,0,0,0,1,0,50,New Client,3593.13
+268,Landing Page,1,Standard,1,0,0,1,0,0,12,New Client,3137.04
+269,Application Web,56,Premium,1,0,0,1,1,1,80,New Client,6000
+270,Site Vitrine,9,Basic,1,1,0,1,0,0,78,Returning Client,3819
+271,Application Web,42,Premium,0,0,1,1,0,0,15,New Client,6000
+272,Site Vitrine,6,Basic,1,0,0,1,0,0,69,New Client,3278.31
+273,E-commerce,25,Standard,0,1,1,1,1,0,62,New Client,6000
+274,E-commerce,10,Premium,1,1,1,1,0,0,22,Returning Client,5945.92
+275,Application Web,14,Premium,1,0,0,1,1,1,14,New Client,6000
+276,Site Vitrine,7,Standard,1,0,0,0,1,1,36,New Client,3596.62
+277,Landing Page,2,Standard,1,0,0,0,1,1,35,New Client,3082.67
+278,Application Web,24,Standard,1,0,0,0,1,1,22,New Client,6000
+279,E-commerce,21,Standard,1,1,1,0,1,1,32,New Client,5929.17
+280,Site Vitrine,12,Basic,1,0,0,0,1,0,47,New Client,3552.11
+281,Application Web,55,Standard,0,0,0,0,1,1,42,Returning Client,6000
+282,Landing Page,1,Basic,0,0,0,1,1,1,72,Returning Client,2441.18
+283,E-commerce,27,Basic,0,1,0,1,1,1,32,Returning Client,4996.97
+284,E-commerce,34,Basic,1,1,0,0,1,1,57,New Client,5752.08
+285,Landing Page,3,Standard,0,0,0,0,1,0,47,New Client,2555.69
+286,Landing Page,1,Standard,0,0,0,0,0,0,63,New Client,2278.52
+287,Site Vitrine,11,Basic,0,0,0,0,0,0,27,New Client,2981.26
+288,E-commerce,24,Standard,0,1,1,0,0,0,57,New Client,5630.67
+289,E-commerce,36,Basic,1,1,1,1,0,0,46,New Client,5851.54
+290,Site Vitrine,14,Basic,0,0,0,0,0,0,69,New Client,2958.15
+291,Application Web,17,Premium,0,0,0,1,1,0,32,New Client,5623.34
+292,Landing Page,1,Basic,0,0,0,0,1,1,10,New Client,2815.88
+293,Application Web,48,Standard,1,0,1,0,1,1,44,New Client,6000
+294,Site Vitrine,7,Standard,1,0,1,0,1,1,20,New Client,4192.8
+295,Application Web,33,Premium,0,0,0,1,1,1,54,Returning Client,6000
+296,Site Vitrine,13,Premium,1,0,1,0,0,0,59,New Client,4302.46
+297,E-commerce,28,Basic,1,1,1,1,1,1,64,New Client,6000
+298,Landing Page,3,Standard,1,0,0,1,1,1,28,Returning Client,3083.42
+299,Site Vitrine,12,Standard,1,0,0,0,0,0,19,VIP Client,3315.11
+300,Site Vitrine,8,Premium,1,0,0,0,1,1,24,Returning Client,3990.33
+301,Application Web,40,Standard,0,0,0,0,1,0,87,New Client,5524.78
+302,Site Vitrine,7,Basic,1,0,0,0,0,0,31,New Client,3114.02
+303,Landing Page,1,Standard,1,0,0,0,1,1,8,Returning Client,3200.9
+304,Site Vitrine,14,Standard,0,0,0,0,0,0,81,New Client,3098.34
+305,Site Vitrine,14,Basic,0,0,0,0,0,0,88,Returning Client,2727.59
+306,Site Vitrine,10,Standard,1,0,0,1,0,0,37,New Client,3722.89
+307,Site Vitrine,10,Basic,0,0,0,0,0,0,21,New Client,3037.13
+308,Site Vitrine,10,Basic,0,0,0,0,1,0,79,Returning Client,2901.66
+309,Landing Page,1,Premium,0,0,0,0,0,0,81,Returning Client,2711.2
+310,Site Vitrine,5,Standard,0,0,0,0,1,1,78,New Client,3173.7
+311,E-commerce,24,Standard,0,1,1,0,1,1,18,VIP Client,5490.84
+312,E-commerce,29,Basic,0,1,1,0,1,1,20,New Client,5756.43
+313,Site Vitrine,10,Standard,1,0,0,0,1,1,86,New Client,3798.36
+314,Site Vitrine,9,Premium,0,0,0,1,0,0,19,New Client,3962.7
+315,Application Web,56,Premium,1,0,0,1,1,1,47,New Client,6000
+316,E-commerce,35,Standard,0,1,1,1,0,0,81,Returning Client,5447.03
+317,E-commerce,32,Premium,1,1,1,1,1,1,85,New Client,6000
+318,Site Vitrine,7,Standard,0,0,0,0,1,1,28,VIP Client,3172.41
+319,Site Vitrine,6,Premium,0,0,0,1,0,0,81,New Client,3793.14
+320,Landing Page,2,Basic,0,0,0,0,1,0,24,New Client,2458.98
+321,Landing Page,2,Premium,1,0,0,1,0,0,45,New Client,3298.06
+322,Landing Page,1,Standard,0,0,0,1,0,0,89,New Client,2462.85
+323,E-commerce,38,Standard,1,1,1,1,1,1,27,New Client,6000
+324,E-commerce,19,Basic,1,1,1,0,1,1,59,VIP Client,5155.85
+325,Application Web,36,Premium,0,0,0,1,0,0,76,New Client,6000
+326,Application Web,30,Standard,1,0,0,1,0,0,59,Returning Client,5439.58
+327,Site Vitrine,9,Standard,0,0,0,1,0,0,30,New Client,3452.46
+328,Landing Page,1,Standard,1,0,0,0,0,0,19,New Client,2768.69
+329,Site Vitrine,8,Standard,0,0,0,0,0,0,48,New Client,3070.97
+330,Landing Page,2,Standard,0,0,0,0,1,1,84,Returning Client,2477.84
+331,Site Vitrine,5,Standard,1,0,0,0,0,0,14,New Client,3748.49
+332,Site Vitrine,9,Premium,1,0,0,1,1,1,10,New Client,4765.45
+333,E-commerce,23,Standard,1,1,1,1,1,1,24,VIP Client,6000
+334,Site Vitrine,8,Basic,1,0,0,1,1,1,61,New Client,3601.78
+335,Landing Page,3,Basic,0,0,0,0,1,1,19,Returning Client,2486.05
+336,Site Vitrine,9,Standard,1,0,0,1,1,1,42,New Client,3881.59
+337,Site Vitrine,13,Basic,1,0,0,0,1,1,28,Returning Client,3337.32
+338,Landing Page,1,Premium,0,0,0,0,1,1,23,New Client,3187.6
+339,E-commerce,30,Premium,0,1,1,1,0,0,47,VIP Client,5727.03
+340,E-commerce,27,Basic,0,1,1,0,1,1,14,New Client,5985.02
+341,Site Vitrine,10,Standard,0,0,0,0,0,0,25,Returning Client,3376.14
+342,Site Vitrine,11,Premium,0,0,0,1,1,1,51,Returning Client,3922.23
+343,Site Vitrine,7,Basic,1,1,1,1,0,0,80,New Client,4259.95
+344,Site Vitrine,6,Standard,0,0,0,0,1,1,9,New Client,3705.38
+345,Site Vitrine,13,Basic,1,0,1,0,1,1,16,New Client,3800.67
+346,Site Vitrine,9,Premium,0,0,0,1,0,0,71,New Client,3799.67
+347,E-commerce,14,Premium,0,1,1,1,0,0,44,New Client,5670.77
+348,Application Web,39,Standard,1,0,0,1,0,0,31,Returning Client,5909.59
+349,Application Web,36,Standard,1,0,0,0,0,0,49,VIP Client,5075.8
+350,Application Web,21,Standard,1,0,0,0,0,0,40,Returning Client,5021.41
+351,Site Vitrine,7,Standard,0,0,0,1,1,1,84,New Client,3632.28
+352,Site Vitrine,13,Basic,1,0,0,0,0,0,59,Returning Client,3063.38
+353,Landing Page,3,Basic,0,0,0,0,1,0,24,New Client,2576.28
+354,Landing Page,3,Basic,0,0,0,0,0,0,59,New Client,2182.79
+355,Landing Page,3,Standard,1,0,0,0,1,1,26,New Client,3132.93
+356,Site Vitrine,5,Basic,0,0,0,1,0,0,14,Returning Client,3334.89
+357,Site Vitrine,4,Standard,0,0,0,0,1,1,17,New Client,3419.4
+358,Site Vitrine,15,Basic,0,1,1,1,1,1,57,New Client,4609.01
+359,E-commerce,36,Standard,0,1,1,0,1,1,88,New Client,6000
+360,Site Vitrine,7,Standard,0,0,0,1,0,0,8,Returning Client,3495.98
+361,Site Vitrine,13,Basic,0,0,0,0,1,1,72,New Client,3301.21
+362,Site Vitrine,15,Basic,0,0,0,1,1,0,54,New Client,3549.74
+363,E-commerce,9,Standard,0,1,1,0,1,1,76,New Client,5268.42
+364,Site Vitrine,7,Standard,0,0,0,0,1,0,8,New Client,3582.35
+365,E-commerce,32,Standard,1,1,1,0,1,1,19,New Client,6000
+366,Landing Page,1,Basic,0,0,0,1,1,1,76,VIP Client,2332.15
+367,Site Vitrine,8,Premium,1,0,0,1,0,0,80,New Client,3934.41
+368,Site Vitrine,14,Basic,0,0,0,0,1,1,39,New Client,3417.15
+369,Landing Page,3,Basic,0,0,0,0,0,0,18,New Client,2291.28
+370,Site Vitrine,13,Basic,1,1,1,0,0,0,85,New Client,4304.19
+371,Site Vitrine,9,Standard,1,0,0,0,0,0,9,New Client,4063.17
+372,Application Web,54,Standard,1,0,0,1,0,0,46,New Client,6000
+373,E-commerce,16,Basic,1,1,1,1,1,0,74,New Client,5606.26
+374,Application Web,49,Premium,1,0,0,1,0,0,31,New Client,6000
+375,Site Vitrine,10,Basic,0,0,0,0,1,1,68,New Client,3217.69
+376,Application Web,27,Standard,1,0,0,0,1,1,35,VIP Client,5220.65
+377,Site Vitrine,12,Basic,1,0,0,0,0,0,39,Returning Client,3020.54
+378,E-commerce,24,Basic,1,1,1,0,1,1,48,New Client,5590.3
+379,E-commerce,24,Basic,0,1,1,1,1,1,36,Returning Client,5223.18
+380,E-commerce,10,Standard,0,1,1,0,0,0,68,Returning Client,4974.39
+381,Site Vitrine,8,Standard,1,0,0,0,0,0,44,New Client,3482.52
+382,Landing Page,1,Basic,1,0,1,0,0,0,9,Returning Client,3024.78
+383,Site Vitrine,7,Standard,1,0,0,0,0,0,72,Returning Client,3179.04
+384,Landing Page,3,Basic,0,1,0,0,1,0,36,New Client,3095.35
+385,Application Web,54,Standard,1,0,0,1,0,0,28,New Client,6000
+386,Application Web,35,Standard,1,1,1,0,0,0,60,New Client,6000
+387,Landing Page,2,Premium,1,0,0,0,0,0,8,New Client,3578.11
+388,E-commerce,16,Standard,0,1,1,0,0,0,16,Returning Client,5389.12
+389,Landing Page,3,Standard,0,0,0,0,1,1,65,New Client,2591.55
+390,Landing Page,3,Premium,1,0,0,1,1,1,53,Returning Client,3322.77
+391,Site Vitrine,11,Standard,0,0,0,0,1,1,70,New Client,3361.21
+392,Site Vitrine,7,Standard,1,0,0,0,1,1,11,Returning Client,3759.54
+393,E-commerce,17,Basic,1,1,1,0,0,0,51,New Client,5378.21
+394,Site Vitrine,13,Basic,1,0,0,1,0,0,50,New Client,3334.97
+395,Site Vitrine,14,Premium,1,0,0,1,0,0,26,New Client,4259.28
+396,Landing Page,3,Standard,1,0,0,0,0,0,75,New Client,2743.32
+397,Landing Page,1,Premium,1,0,0,1,1,1,8,New Client,3814.72
+398,Site Vitrine,9,Standard,0,0,0,0,1,1,10,New Client,3962.6
+399,Site Vitrine,11,Standard,0,0,0,0,1,1,41,Returning Client,3319.13
+400,Landing Page,3,Premium,1,0,0,1,0,0,61,VIP Client,2819.33
+401,E-commerce,21,Standard,1,1,1,0,1,1,56,New Client,5758.75
+402,Landing Page,1,Basic,1,0,0,0,1,1,89,New Client,2425.09
+403,Site Vitrine,15,Premium,1,0,0,0,0,0,7,New Client,4441.19
+404,Site Vitrine,10,Basic,0,0,0,0,1,1,54,New Client,3047.22
+405,E-commerce,35,Standard,0,1,1,1,1,1,84,New Client,5948.12
+406,Landing Page,3,Basic,1,0,0,1,0,0,41,Returning Client,2543.01
+407,Landing Page,2,Basic,0,0,0,0,1,1,37,Returning Client,2327.79
+408,Site Vitrine,7,Premium,1,0,0,1,1,1,36,Returning Client,3952.46
+409,Site Vitrine,4,Standard,1,0,0,1,0,0,15,New Client,4039.91
+410,Site Vitrine,10,Standard,1,0,0,0,1,0,46,Returning Client,3568.76
+411,E-commerce,16,Basic,0,1,0,0,1,0,37,New Client,4736.01
+412,Application Web,44,Basic,0,1,1,0,1,1,23,New Client,6000
+413,Site Vitrine,12,Basic,1,0,0,0,1,1,40,Returning Client,3299.39
+414,Site Vitrine,11,Standard,0,0,0,1,1,1,53,New Client,3888.74
+415,Site Vitrine,10,Premium,0,0,0,1,1,1,71,Returning Client,3672.45
+416,Site Vitrine,8,Premium,1,0,0,1,1,1,80,New Client,4396.68
+417,Site Vitrine,7,Basic,1,0,0,0,0,0,53,VIP Client,2905.21
+418,E-commerce,20,Standard,1,1,1,0,1,1,86,New Client,5920.17
+419,Site Vitrine,8,Basic,0,0,0,0,0,0,69,New Client,2768.77
+420,Application Web,60,Premium,1,0,1,1,1,1,21,New Client,6000
+421,Application Web,26,Standard,0,0,0,0,0,0,67,New Client,5381.78
+422,E-commerce,32,Premium,0,1,1,0,0,0,87,New Client,5965.09
+423,Site Vitrine,6,Premium,1,0,0,0,0,0,24,New Client,4013.05
+424,Site Vitrine,14,Basic,0,1,1,0,0,0,46,New Client,4249.26
+425,E-commerce,34,Standard,1,1,0,0,1,1,67,VIP Client,5088.02
+426,Site Vitrine,12,Standard,0,0,0,0,1,1,89,New Client,3605.07
+427,Landing Page,1,Basic,1,0,0,0,0,0,24,New Client,2525.64
+428,Landing Page,2,Basic,0,0,0,1,0,0,71,New Client,2277.03
+429,Site Vitrine,12,Standard,0,0,0,0,1,0,76,New Client,3209.29
+430,E-commerce,11,Basic,0,1,1,1,1,1,44,Returning Client,5361.68
+431,E-commerce,37,Standard,1,1,1,0,1,1,7,New Client,6000
+432,Landing Page,2,Standard,0,0,0,1,0,0,13,Returning Client,2971.7
+433,Application Web,49,Basic,1,0,0,1,1,1,26,New Client,6000
+434,Landing Page,1,Basic,0,0,0,0,0,0,38,Returning Client,2016.76
+435,Site Vitrine,10,Basic,1,0,0,0,1,1,15,Returning Client,3611.61
+436,Application Web,11,Standard,1,0,0,0,0,0,29,New Client,5589.16
+437,E-commerce,9,Standard,0,1,1,1,1,1,74,New Client,5709.21
+438,E-commerce,19,Premium,0,1,1,1,1,1,21,New Client,6000
+439,E-commerce,37,Standard,0,1,1,0,0,0,16,New Client,5901.5
+440,Landing Page,1,Premium,1,0,0,1,0,0,18,Returning Client,3148.97
+441,Site Vitrine,6,Standard,0,1,1,0,1,1,40,New Client,4181.83
+442,Landing Page,3,Standard,1,0,0,1,0,0,63,Returning Client,2775.65
+443,E-commerce,26,Basic,1,1,1,0,1,1,40,New Client,5923.47
+444,E-commerce,32,Standard,1,1,1,1,1,1,60,New Client,6000
+445,E-commerce,27,Standard,1,1,0,0,1,1,89,New Client,6000
+446,Site Vitrine,4,Premium,0,0,0,1,0,0,22,New Client,4033.09
+447,Site Vitrine,15,Premium,1,0,0,0,0,0,15,New Client,4440.62
+448,Application Web,52,Standard,0,0,0,0,0,0,85,Returning Client,5818.44
+449,Site Vitrine,7,Standard,0,0,0,0,1,1,65,New Client,3275.14
+450,E-commerce,28,Standard,0,1,1,0,1,1,77,New Client,6000
+451,Site Vitrine,8,Basic,1,0,0,1,1,1,71,Returning Client,3295.12
+452,Landing Page,2,Standard,0,0,0,1,1,1,61,New Client,2886.61
+453,E-commerce,27,Standard,1,1,1,0,1,1,48,New Client,6000
+454,Application Web,16,Standard,0,0,0,0,0,0,39,Returning Client,4975.33
+455,E-commerce,8,Basic,1,1,1,1,1,1,82,Returning Client,5377.67
+456,E-commerce,22,Standard,0,1,1,0,1,1,49,New Client,5843.54
+457,Site Vitrine,12,Standard,1,0,0,1,1,1,90,New Client,3977.92
+458,Application Web,60,Standard,0,0,0,1,1,1,62,New Client,6000
+459,Site Vitrine,6,Basic,1,0,0,0,0,0,35,Returning Client,3060.83
+460,E-commerce,11,Standard,1,1,1,0,0,0,26,New Client,5672.31
+461,E-commerce,11,Standard,1,1,1,0,0,0,61,New Client,5644.1
+462,Landing Page,3,Standard,0,0,0,1,1,1,89,New Client,2750.77
+463,Site Vitrine,11,Standard,0,0,0,0,0,0,88,New Client,3283.75
+464,Landing Page,3,Premium,0,0,0,1,0,0,84,New Client,3006.42
+465,Site Vitrine,4,Standard,1,0,0,1,0,0,21,New Client,3641.89
+466,Site Vitrine,12,Premium,1,0,0,1,1,1,62,New Client,4313.29
+467,Site Vitrine,9,Standard,1,0,0,1,1,1,54,New Client,3819.73
+468,Site Vitrine,4,Standard,1,0,1,0,0,0,29,Returning Client,3467.78
+469,Landing Page,2,Basic,1,0,0,0,1,1,43,New Client,2710.08
+470,Site Vitrine,13,Premium,0,0,0,1,1,1,32,New Client,4223.01
+471,Site Vitrine,7,Basic,0,0,1,1,0,0,9,Returning Client,3493.69
+472,E-commerce,37,Premium,1,1,1,0,0,0,42,Returning Client,6000
+473,Site Vitrine,5,Basic,1,0,0,0,1,0,41,New Client,3227.86
+474,Site Vitrine,13,Standard,1,0,0,1,0,0,89,New Client,3698.27
+475,E-commerce,37,Premium,1,1,1,0,1,1,16,New Client,6000
+476,Site Vitrine,15,Standard,1,0,0,0,0,0,73,Returning Client,3456.08
+477,E-commerce,35,Standard,1,1,1,1,1,1,83,New Client,6000
+478,Landing Page,2,Premium,0,0,0,1,0,0,43,New Client,2954.28
+479,Landing Page,1,Standard,1,0,0,0,0,0,66,New Client,2690.63
+480,Site Vitrine,15,Basic,1,0,0,0,0,0,29,New Client,3533.88
+481,Site Vitrine,10,Standard,0,0,0,1,1,0,61,Returning Client,3181.1
+482,E-commerce,36,Standard,0,1,1,0,0,0,48,Returning Client,5757.84
+483,E-commerce,16,Standard,1,1,1,0,1,1,63,Returning Client,5421.69
+484,E-commerce,26,Premium,1,1,0,1,1,1,7,New Client,6000
+485,Site Vitrine,5,Standard,1,0,0,0,1,1,28,New Client,3690.37
+486,Site Vitrine,15,Basic,1,0,0,1,0,0,71,New Client,3279.14
+487,Site Vitrine,5,Standard,1,0,0,0,1,0,52,Returning Client,3421.79
+488,Landing Page,3,Basic,0,0,0,0,1,1,17,Returning Client,2493.59
+489,Landing Page,3,Basic,0,0,0,0,0,0,28,New Client,2264.51
+490,Landing Page,2,Basic,0,0,0,0,0,0,74,VIP Client,2000
+491,Site Vitrine,5,Standard,1,0,0,1,1,1,69,Returning Client,3507.49
+492,Site Vitrine,6,Premium,0,0,0,1,0,0,11,New Client,4171.16
+493,Landing Page,1,Basic,1,0,0,0,0,0,84,Returning Client,2112.17
+494,E-commerce,25,Basic,0,1,1,0,1,1,44,Returning Client,5408.4
+495,Site Vitrine,9,Basic,1,0,1,0,0,0,13,New Client,4049.81
+496,Landing Page,2,Standard,0,0,0,0,1,0,14,New Client,3076.15
+497,Landing Page,3,Basic,0,0,0,0,1,1,83,New Client,2288.58
+498,Site Vitrine,15,Standard,0,0,0,0,0,0,7,New Client,3612.07
+499,E-commerce,9,Standard,0,1,0,0,0,0,8,Returning Client,5029.05
+500,Site Vitrine,7,Premium,0,0,0,1,0,0,31,Returning Client,3587.39
+501,E-commerce,27,Standard,1,1,1,0,1,1,17,New Client,6000
+502,E-commerce,17,Standard,1,1,1,0,0,0,73,Returning Client,5204.32
+503,E-commerce,30,Basic,0,1,1,0,1,1,26,New Client,6000
+504,Site Vitrine,13,Standard,1,0,0,1,0,0,7,VIP Client,3667.25
+505,Site Vitrine,9,Premium,1,0,0,1,1,1,29,New Client,4315.43
+506,E-commerce,9,Basic,0,1,0,1,1,1,87,New Client,5084.17
+507,Site Vitrine,5,Premium,0,0,0,1,0,0,88,New Client,3461.27
+508,Site Vitrine,13,Premium,0,0,0,1,1,1,62,VIP Client,3530.17
+509,Site Vitrine,15,Basic,1,0,0,1,1,1,60,VIP Client,3523.47
+510,Site Vitrine,12,Standard,0,0,0,1,0,0,20,New Client,3487.65
+511,Landing Page,2,Standard,1,0,0,1,0,0,60,Returning Client,2683.3
+512,Landing Page,2,Standard,0,0,0,0,1,1,17,Returning Client,2612.9
+513,Landing Page,3,Premium,1,0,0,0,1,1,86,New Client,3179.8
+514,Site Vitrine,12,Standard,1,0,0,0,1,1,11,New Client,4179.38
+515,Site Vitrine,7,Basic,0,0,0,1,1,1,78,New Client,3100.67
+516,E-commerce,13,Standard,0,1,1,0,0,0,43,New Client,5575.35
+517,Site Vitrine,9,Premium,1,0,0,0,1,1,32,Returning Client,3885.53
+518,Site Vitrine,4,Standard,1,0,0,1,0,0,58,New Client,3389.92
+519,Site Vitrine,8,Basic,1,0,0,0,0,0,18,New Client,3341.9
+520,E-commerce,25,Basic,1,1,0,1,1,1,79,New Client,5810.52
+521,Site Vitrine,8,Basic,1,0,0,0,1,1,9,New Client,3988.99
+522,Application Web,14,Standard,0,0,1,0,0,0,34,Returning Client,5045.47
+523,Site Vitrine,8,Premium,1,0,0,1,0,0,62,New Client,4014.87
+524,Site Vitrine,12,Premium,1,0,0,0,1,1,66,New Client,4164.78
+525,Site Vitrine,6,Standard,0,0,0,1,1,1,47,New Client,3574.23
+526,Site Vitrine,11,Premium,1,0,0,0,1,1,55,New Client,4256.76
+527,Site Vitrine,6,Basic,1,0,0,0,1,1,33,New Client,3405.46
+528,Site Vitrine,7,Standard,0,0,0,0,1,1,26,Returning Client,3494.37
+529,Application Web,15,Standard,0,0,0,1,1,1,43,New Client,5369.66
+530,Site Vitrine,10,Basic,0,0,0,1,1,1,86,New Client,3460.9
+531,E-commerce,26,Standard,0,1,1,1,1,1,13,New Client,6000
+532,Application Web,46,Standard,0,0,0,0,1,0,82,Returning Client,5405.43
+533,Site Vitrine,11,Standard,1,0,0,0,0,0,89,New Client,3518.59
+534,Site Vitrine,7,Basic,1,0,0,1,1,1,69,New Client,3491.76
+535,E-commerce,31,Standard,0,1,1,0,1,1,86,New Client,6000
+536,Site Vitrine,7,Standard,1,0,0,0,1,0,14,New Client,3858.03
+537,E-commerce,23,Premium,0,1,1,1,0,0,82,New Client,5899.57
+538,E-commerce,21,Standard,1,1,1,1,1,1,16,Returning Client,6000
+539,Landing Page,2,Standard,1,0,0,0,1,1,37,New Client,3057.26
+540,E-commerce,22,Premium,1,1,1,1,0,0,53,New Client,6000
+541,Landing Page,1,Standard,1,0,0,0,1,1,75,New Client,2711.14
+542,Site Vitrine,13,Standard,0,0,0,0,1,0,82,VIP Client,2903.78
+543,E-commerce,28,Standard,0,1,1,0,1,1,15,New Client,6000
+544,E-commerce,16,Standard,1,1,1,0,1,1,34,New Client,5709.28
+545,Application Web,20,Standard,0,0,0,0,1,1,54,New Client,5281.16
+546,Application Web,56,Premium,0,0,0,1,1,1,46,Returning Client,6000
+547,Landing Page,3,Standard,0,0,0,0,0,0,41,New Client,2372.12
+548,Application Web,42,Premium,0,0,0,1,0,0,39,New Client,6000
+549,Landing Page,1,Basic,0,0,0,1,0,0,17,New Client,2596.61
+550,Site Vitrine,7,Standard,1,0,0,1,0,0,20,New Client,3818.51
+551,Site Vitrine,9,Basic,0,0,0,1,0,0,29,New Client,3146.55
+552,Site Vitrine,14,Standard,0,0,0,0,0,0,13,New Client,3694.93
+553,Site Vitrine,11,Standard,0,0,0,0,0,0,35,New Client,3117.26
+554,Landing Page,3,Standard,1,0,0,0,0,0,71,New Client,2599.16
+555,Site Vitrine,8,Standard,1,0,0,0,1,1,68,New Client,3461.03
+556,Site Vitrine,13,Standard,0,0,0,0,0,0,51,New Client,3412.67
+557,Site Vitrine,15,Premium,0,0,0,0,0,0,86,Returning Client,3487.85
+558,E-commerce,38,Standard,0,1,0,0,1,1,33,New Client,5644.34
+559,Landing Page,1,Standard,1,0,0,0,1,1,22,Returning Client,2989.77
+560,Site Vitrine,14,Standard,0,0,0,0,0,0,90,New Client,3411.63
+561,Site Vitrine,10,Premium,1,0,0,1,1,1,21,New Client,4443.48
+562,E-commerce,35,Basic,1,1,1,0,1,0,89,Returning Client,5608.28
+563,Site Vitrine,11,Standard,1,0,0,0,1,1,24,Returning Client,3887.61
+564,Site Vitrine,8,Standard,1,0,0,1,1,1,80,New Client,3701.93
+565,Site Vitrine,9,Basic,1,0,0,1,0,0,43,New Client,3415.98
+566,Application Web,18,Premium,1,1,0,1,1,1,43,New Client,6000
+567,Application Web,18,Standard,0,0,0,0,0,0,28,New Client,5211.76
+568,Landing Page,3,Premium,1,0,0,1,1,1,85,VIP Client,3224.55
+569,Site Vitrine,15,Premium,0,0,0,1,0,0,37,New Client,4076.53
+570,E-commerce,20,Standard,1,1,1,0,1,1,54,New Client,6000
+571,Site Vitrine,7,Standard,1,0,0,1,0,0,43,New Client,3728.16
+572,Site Vitrine,12,Standard,0,0,0,1,1,1,23,New Client,3754.08
+573,E-commerce,26,Standard,0,1,1,0,1,1,60,New Client,5872.85
+574,Landing Page,3,Standard,0,0,0,1,1,1,20,New Client,3026.94
+575,E-commerce,24,Basic,1,1,1,0,1,1,88,New Client,5668.83
+576,Site Vitrine,13,Basic,0,0,0,0,1,1,77,New Client,3074.27
+577,Landing Page,1,Basic,1,0,0,1,1,1,57,New Client,2698.08
+578,E-commerce,38,Basic,0,1,1,0,0,0,10,New Client,5793.1
+579,Landing Page,2,Standard,0,0,0,0,1,1,61,Returning Client,2478.74
+580,Application Web,55,Premium,1,0,0,1,1,0,77,New Client,6000
+581,Application Web,33,Basic,0,0,0,0,0,0,77,New Client,4912.72
+582,Application Web,43,Standard,0,0,0,0,1,1,62,New Client,5668.03
+583,Landing Page,2,Basic,1,0,0,0,0,0,11,New Client,2837.89
+584,E-commerce,10,Basic,0,1,1,1,1,1,45,New Client,5373
+585,Site Vitrine,14,Basic,1,0,0,0,1,0,7,New Client,3922.58
+586,Site Vitrine,6,Basic,0,0,0,1,1,1,89,New Client,3115.84
+587,Application Web,60,Premium,1,0,0,1,1,1,36,New Client,6000
+588,Landing Page,2,Basic,0,0,0,0,1,1,33,New Client,2397.88
+589,Site Vitrine,12,Standard,0,0,0,0,1,1,21,New Client,3684.14
+590,Landing Page,2,Basic,0,0,0,1,0,0,60,New Client,2458.43
+591,E-commerce,13,Basic,0,1,1,0,1,1,31,New Client,5407.23
+592,Site Vitrine,8,Basic,0,0,0,1,1,1,86,New Client,3106.25
+593,Site Vitrine,10,Basic,0,0,0,1,0,0,86,Returning Client,2843.81
+594,Site Vitrine,8,Premium,1,0,0,1,0,0,47,New Client,3885.56
+595,Landing Page,3,Basic,0,0,0,1,1,0,69,New Client,2451.15
+596,Landing Page,2,Standard,0,0,0,1,1,1,39,New Client,2859.74
+597,Site Vitrine,15,Standard,1,0,0,0,0,0,30,New Client,3926.64
+598,Site Vitrine,8,Basic,0,0,0,0,0,0,78,New Client,2767.37
+599,Site Vitrine,8,Basic,1,0,0,0,0,0,54,New Client,3011.16
+600,Site Vitrine,11,Basic,1,1,1,0,1,1,78,Returning Client,4049.65
+601,Application Web,30,Standard,1,0,0,0,1,1,20,New Client,5809.77
+602,Site Vitrine,10,Basic,0,0,0,0,1,1,16,Returning Client,3219.46
+603,Landing Page,1,Standard,1,0,0,0,0,0,54,New Client,2574.22
+604,E-commerce,17,Standard,1,1,1,0,1,1,33,New Client,6000
+605,Site Vitrine,9,Premium,0,0,0,0,1,0,68,New Client,3638.18
+606,Application Web,24,Basic,1,1,1,0,1,1,49,New Client,6000
+607,E-commerce,27,Basic,0,1,1,0,1,1,51,VIP Client,5132.16
+608,E-commerce,15,Premium,0,1,1,1,1,1,26,New Client,6000
+609,E-commerce,36,Basic,0,1,1,1,0,0,40,Returning Client,5582.3
+610,Landing Page,1,Basic,0,0,0,0,0,0,46,New Client,2148.92
+611,Landing Page,1,Standard,1,0,0,1,0,0,63,New Client,2786.31
+612,E-commerce,11,Basic,0,1,1,1,1,1,79,New Client,5448.82
+613,Site Vitrine,4,Basic,1,0,0,1,1,1,85,New Client,3376.91
+614,Landing Page,2,Standard,1,1,0,1,1,1,14,Returning Client,3974.17
+615,Site Vitrine,6,Standard,0,0,0,0,1,1,59,New Client,3410.45
+616,E-commerce,40,Standard,1,1,1,0,1,1,73,New Client,6000
+617,Application Web,46,Basic,0,0,0,0,0,0,36,Returning Client,5459.35
+618,Site Vitrine,10,Premium,1,0,0,0,1,1,10,New Client,4672.34
+619,Site Vitrine,5,Basic,1,0,0,0,1,1,28,New Client,3512.5
+620,Site Vitrine,11,Basic,1,0,0,0,1,1,45,New Client,3554.14
+621,E-commerce,27,Standard,1,1,1,0,1,1,32,New Client,6000
+622,Landing Page,2,Standard,1,0,0,1,1,1,64,New Client,3095.53
+623,Site Vitrine,13,Standard,1,0,0,0,0,0,56,New Client,3707.79
+624,E-commerce,36,Premium,1,1,1,0,1,1,27,New Client,6000
+625,Landing Page,1,Basic,0,0,0,0,1,1,36,Returning Client,2231.18
+626,Site Vitrine,9,Standard,1,1,1,0,1,0,16,New Client,4807.08
+627,Site Vitrine,14,Standard,0,0,0,0,0,0,14,New Client,3743.78
+628,Application Web,44,Standard,0,0,0,0,1,1,71,Returning Client,5431.51
+629,Landing Page,2,Standard,1,0,0,1,0,0,8,New Client,3332.41
+630,E-commerce,21,Standard,1,1,0,0,0,0,77,Returning Client,5066.53
+631,Landing Page,3,Basic,1,0,0,1,0,0,20,New Client,2665.68
+632,Site Vitrine,8,Standard,1,1,1,0,1,0,27,Returning Client,4507.48
+633,Site Vitrine,13,Premium,0,1,1,1,0,0,31,Returning Client,4489.07
+634,Site Vitrine,15,Standard,1,0,0,0,1,0,16,New Client,3990.96
+635,E-commerce,39,Standard,1,1,1,0,1,1,44,New Client,6000
+636,E-commerce,40,Basic,1,1,1,0,0,0,85,New Client,5586.18
+637,Site Vitrine,14,Standard,1,0,0,1,1,1,48,New Client,3885.81
+638,Landing Page,2,Standard,0,0,0,1,1,1,12,Returning Client,3192.13
+639,Application Web,50,Basic,0,0,0,0,1,1,88,New Client,5641.3
+640,Site Vitrine,7,Basic,0,0,0,0,1,1,83,New Client,3171.5
+641,E-commerce,11,Basic,0,1,1,0,0,0,72,New Client,4717.83
+642,Site Vitrine,5,Standard,1,0,0,1,1,1,88,New Client,3849.52
+643,Site Vitrine,11,Standard,0,0,0,1,1,1,11,New Client,4168.7
+644,Site Vitrine,14,Basic,0,1,1,0,0,0,89,New Client,3852.82
+645,Site Vitrine,4,Standard,0,0,0,0,1,1,88,New Client,3403.75
+646,Landing Page,1,Basic,0,0,0,0,0,0,71,New Client,2123.21
+647,Site Vitrine,4,Standard,1,0,0,0,0,0,62,New Client,3161.55
+648,Site Vitrine,4,Standard,0,1,1,1,1,1,54,New Client,4721.08
+649,Landing Page,1,Premium,0,0,0,0,0,0,33,New Client,2925.05
+650,Site Vitrine,4,Standard,0,0,0,1,0,0,59,New Client,3197.99
+651,Site Vitrine,8,Basic,0,0,0,1,1,1,36,New Client,3418.19
+652,Landing Page,1,Premium,0,0,0,1,0,0,66,VIP Client,2621.93
+653,Site Vitrine,14,Basic,0,0,1,0,1,1,7,Returning Client,3770.58
+654,Site Vitrine,14,Premium,1,1,1,0,0,0,71,Returning Client,4619.75
+655,E-commerce,16,Standard,1,1,1,0,0,0,60,New Client,5457.22
+656,Landing Page,2,Basic,1,0,1,1,1,1,90,Returning Client,2849.57
+657,E-commerce,28,Premium,0,1,1,0,0,0,41,New Client,6000
+658,Site Vitrine,7,Premium,0,0,0,0,0,0,65,New Client,3589.66
+659,Site Vitrine,15,Basic,1,1,1,0,0,0,45,Returning Client,3936.84
+660,Landing Page,3,Premium,1,0,0,0,0,0,41,New Client,3179.85
+661,Landing Page,3,Standard,1,0,0,1,1,1,71,New Client,2992.87
+662,Site Vitrine,9,Standard,0,0,0,1,0,0,31,New Client,3449.38
+663,Site Vitrine,8,Standard,1,0,0,1,1,1,62,Returning Client,3612.57
+664,Site Vitrine,12,Basic,0,0,0,1,1,1,7,Returning Client,3763.52
+665,Landing Page,2,Premium,0,0,0,1,1,1,23,New Client,3461.29
+666,Landing Page,3,Premium,1,0,0,1,0,0,46,New Client,3175.96
+667,E-commerce,14,Standard,0,1,1,0,0,0,88,New Client,5031.65
+668,E-commerce,25,Basic,0,1,1,1,1,1,60,New Client,5958.3
+669,Site Vitrine,8,Standard,0,0,0,1,1,1,18,New Client,3694.57
+670,E-commerce,26,Premium,1,1,1,1,0,0,15,Returning Client,6000
+671,Application Web,36,Basic,1,0,0,1,1,1,23,New Client,6000
+672,Site Vitrine,12,Standard,1,0,0,0,1,1,24,Returning Client,3770.55
+673,Landing Page,2,Standard,1,0,0,0,0,0,61,New Client,2726.57
+674,Landing Page,2,Standard,1,0,0,1,1,0,80,New Client,3007.13
+675,Application Web,16,Premium,0,1,1,1,1,1,16,New Client,6000
+676,E-commerce,35,Standard,1,1,1,1,0,0,57,Returning Client,6000
+677,Landing Page,3,Basic,1,0,0,0,1,1,17,Returning Client,2749.91
+678,Application Web,47,Standard,1,0,0,0,0,0,63,New Client,5875.82
+679,Site Vitrine,5,Standard,1,0,0,0,1,1,83,New Client,3474.95
+680,Site Vitrine,13,Standard,0,0,0,1,0,0,85,Returning Client,3204.42
+681,Site Vitrine,4,Standard,1,0,0,0,1,1,77,New Client,3585.41
+682,Application Web,51,Standard,1,0,0,1,0,0,7,New Client,6000
+683,Site Vitrine,4,Standard,0,1,1,1,1,1,30,New Client,4633.38
+684,Landing Page,1,Basic,0,0,0,0,0,0,53,New Client,2180.31
+685,Site Vitrine,8,Basic,0,1,1,0,1,1,79,New Client,4225.39
+686,E-commerce,8,Premium,1,1,1,1,1,1,8,New Client,6000
+687,Application Web,51,Premium,0,0,0,1,0,0,12,New Client,6000
+688,Site Vitrine,8,Standard,1,0,0,0,1,1,41,New Client,3522.99
+689,Site Vitrine,11,Standard,1,0,0,1,0,0,73,New Client,3512.95
+690,Application Web,10,Standard,1,0,0,1,0,0,13,Returning Client,5424.8
+691,Site Vitrine,13,Basic,0,0,0,0,0,0,15,New Client,3407.93
+692,E-commerce,22,Basic,0,1,1,1,1,0,45,New Client,5817.03
+693,E-commerce,21,Standard,1,1,1,0,0,0,46,New Client,6000
+694,E-commerce,25,Standard,1,1,1,1,1,1,23,New Client,6000
+695,Site Vitrine,13,Basic,1,1,0,0,1,1,87,New Client,4121.55
+696,E-commerce,30,Basic,1,1,1,1,0,0,71,New Client,5645.73
+697,Site Vitrine,12,Standard,1,0,0,0,0,0,75,VIP Client,3020.49
+698,E-commerce,37,Standard,0,1,1,1,1,1,28,New Client,6000
+699,Site Vitrine,4,Standard,0,0,0,0,0,0,90,New Client,3130.56
+700,E-commerce,31,Premium,1,1,1,1,0,0,38,New Client,6000
+701,Landing Page,3,Standard,0,0,0,1,1,1,90,New Client,2711.37
+702,E-commerce,21,Standard,0,1,0,1,0,0,67,New Client,5210.54
+703,Application Web,17,Premium,1,0,0,0,1,0,24,New Client,5963.81
+704,Application Web,50,Standard,1,0,0,0,0,0,52,Returning Client,5820.62
+705,Site Vitrine,13,Standard,0,0,0,0,1,0,43,Returning Client,3254.23
+706,E-commerce,39,Basic,1,1,1,0,0,0,30,New Client,6000
+707,E-commerce,8,Basic,0,1,1,0,1,1,57,New Client,5388.06
+708,E-commerce,24,Basic,1,1,1,1,0,0,78,New Client,5436.86
+709,E-commerce,22,Standard,1,1,1,1,0,0,49,New Client,6000
+710,Landing Page,1,Standard,0,0,0,0,1,0,19,New Client,2821.14
+711,Site Vitrine,10,Basic,0,0,0,0,1,0,39,VIP Client,2858.84
+712,Landing Page,3,Standard,1,0,0,1,1,1,15,Returning Client,3345.02
+713,Landing Page,1,Standard,0,0,0,0,1,1,88,New Client,2469.06
+714,Landing Page,1,Standard,1,0,0,0,1,1,49,New Client,2826.6
+715,E-commerce,32,Standard,0,1,1,0,1,1,7,New Client,6000
+716,Landing Page,1,Standard,1,0,0,1,1,1,11,Returning Client,3236.11
+717,Site Vitrine,11,Standard,1,0,0,1,1,0,60,New Client,3738.84
+718,E-commerce,13,Standard,0,1,1,0,1,0,20,New Client,5739.72
+719,Site Vitrine,5,Standard,1,0,0,0,1,1,84,New Client,3533.31
+720,E-commerce,13,Premium,1,1,1,1,1,0,12,New Client,6000
+721,Landing Page,3,Basic,0,0,0,1,1,0,58,New Client,2420.01
+722,Site Vitrine,14,Basic,1,0,0,0,1,1,28,New Client,3793.9
+723,Site Vitrine,13,Premium,0,1,1,1,1,1,26,New Client,5427.65
+724,E-commerce,10,Basic,0,1,1,0,1,1,44,VIP Client,4691.2
+725,Site Vitrine,13,Premium,1,0,0,1,1,0,75,New Client,4221.34
+726,E-commerce,27,Basic,1,1,1,0,0,0,61,New Client,5439.79
+727,E-commerce,35,Basic,1,1,0,1,1,1,78,New Client,6000
+728,E-commerce,15,Standard,1,1,0,0,1,0,14,VIP Client,5178.33
+729,E-commerce,24,Premium,0,1,1,1,1,1,64,New Client,6000
+730,Landing Page,2,Standard,0,0,0,1,1,1,84,New Client,2752.44
+731,E-commerce,22,Standard,1,1,1,1,1,0,19,New Client,6000
+732,E-commerce,16,Standard,1,1,1,0,0,0,34,New Client,5458.26
+733,E-commerce,28,Basic,1,1,1,0,1,1,52,New Client,5893.52
+734,E-commerce,25,Standard,0,1,1,0,1,1,26,New Client,5763.38
+735,Application Web,49,Premium,0,0,0,1,1,1,46,Returning Client,6000
+736,Application Web,60,Standard,0,0,0,0,0,0,58,New Client,5999.67
+737,Site Vitrine,6,Standard,0,1,1,1,0,0,66,New Client,4049.16
+738,Site Vitrine,4,Basic,0,0,0,1,1,1,12,New Client,3740.59
+739,E-commerce,35,Basic,1,1,1,1,1,1,36,New Client,6000
+740,Site Vitrine,6,Standard,1,0,0,0,1,1,44,New Client,3767.23
+741,Site Vitrine,6,Premium,0,0,0,0,1,1,18,New Client,3830.98
+742,Site Vitrine,13,Basic,1,0,0,1,1,1,30,New Client,3875.57
+743,Site Vitrine,15,Premium,0,0,0,0,0,0,60,Returning Client,3683.23
+744,E-commerce,38,Basic,0,1,1,1,0,0,48,New Client,5698.79
+745,E-commerce,26,Premium,1,1,1,1,0,0,33,VIP Client,5639.74
+746,Landing Page,2,Standard,0,0,0,0,1,1,29,Returning Client,2652.19
+747,E-commerce,9,Standard,0,1,0,0,0,0,88,Returning Client,4599.5
+748,Site Vitrine,4,Basic,0,1,0,0,0,0,29,New Client,3495.11
+749,Application Web,37,Basic,1,0,0,0,1,0,41,Returning Client,5601.81
+750,Landing Page,3,Premium,1,0,0,1,1,0,40,New Client,3381.28
+751,Site Vitrine,8,Premium,1,0,0,0,0,0,18,Returning Client,3662.28
+752,E-commerce,21,Basic,1,1,1,0,1,1,47,New Client,5768.28
+753,E-commerce,22,Basic,1,1,1,0,1,1,25,New Client,5658.67
+754,Landing Page,3,Basic,1,0,0,0,0,0,31,New Client,2340.11
+755,Site Vitrine,5,Basic,0,0,0,0,0,0,81,New Client,2673.3
+756,Landing Page,3,Standard,1,0,0,0,1,1,39,New Client,2932.45
+757,E-commerce,28,Standard,1,1,1,0,1,1,59,New Client,5940.83
+758,Site Vitrine,6,Premium,1,0,0,0,0,0,65,New Client,3800.41
+759,E-commerce,23,Basic,1,1,1,0,1,1,17,New Client,6000
+760,Application Web,10,Premium,1,0,0,1,0,0,33,New Client,5752.23
+761,Site Vitrine,14,Standard,1,0,0,0,1,1,20,Returning Client,3883.73
+762,Site Vitrine,10,Basic,0,0,0,0,0,0,46,New Client,2866.56
+763,E-commerce,14,Basic,0,1,1,1,1,1,46,New Client,5614.8
+764,E-commerce,24,Standard,1,1,1,1,1,0,72,New Client,5952.67
+765,E-commerce,22,Standard,1,1,1,0,1,1,35,VIP Client,5318.27
+766,Landing Page,3,Basic,0,0,0,0,0,0,64,New Client,2000
+767,Application Web,37,Premium,1,0,0,1,1,0,30,New Client,6000
+768,Site Vitrine,13,Standard,1,0,0,0,1,1,88,New Client,3610.65
+769,Application Web,33,Standard,1,0,0,0,0,0,77,New Client,5880.47
+770,Site Vitrine,8,Standard,1,0,0,0,0,0,78,New Client,3389.66
+771,Site Vitrine,7,Premium,0,0,0,1,1,0,64,Returning Client,3584.8
+772,Application Web,11,Standard,0,1,1,0,0,0,37,New Client,5716.61
+773,Application Web,50,Basic,1,0,0,1,1,1,75,New Client,6000
+774,Site Vitrine,12,Basic,0,0,0,0,1,1,44,Returning Client,2961.58
+775,E-commerce,8,Standard,1,1,1,0,1,0,17,Returning Client,5431.41
+776,Site Vitrine,12,Standard,1,0,0,0,0,0,36,New Client,3571.34
+777,Site Vitrine,15,Standard,0,0,0,0,0,0,81,New Client,3436.85
+778,E-commerce,23,Basic,1,1,1,1,0,0,63,VIP Client,5194.84
+779,Landing Page,3,Standard,1,0,0,0,1,1,59,Returning Client,2765.49
+780,Site Vitrine,9,Basic,1,0,0,0,1,0,47,New Client,3234.14
+781,Site Vitrine,5,Premium,0,0,0,1,1,1,20,New Client,4027
+782,Site Vitrine,5,Premium,0,0,0,0,0,0,81,Returning Client,3223.07
+783,Site Vitrine,14,Basic,0,0,0,1,1,1,32,New Client,3399.51
+784,Application Web,54,Standard,1,1,0,0,1,1,76,New Client,6000
+785,E-commerce,10,Basic,1,1,1,0,0,0,69,Returning Client,4959.43
+786,Site Vitrine,15,Basic,1,0,0,0,0,0,84,New Client,3126.56
+787,E-commerce,14,Standard,0,1,1,0,1,0,20,VIP Client,4966.85
+788,E-commerce,18,Standard,1,1,1,1,1,0,85,New Client,5857.85
+789,E-commerce,12,Standard,0,1,1,0,1,0,15,VIP Client,5264.79
+790,Application Web,52,Standard,0,0,0,0,1,1,49,Returning Client,6000
+791,E-commerce,20,Standard,1,1,1,1,1,1,51,New Client,6000
+792,Site Vitrine,4,Standard,0,0,0,1,1,1,87,New Client,3380.03
+793,E-commerce,17,Basic,0,1,1,0,0,0,66,Returning Client,4936.19
+794,Application Web,10,Standard,0,0,0,1,0,0,79,New Client,5132.49
+795,E-commerce,21,Standard,0,1,1,0,0,0,22,New Client,5552.98
+796,Site Vitrine,7,Standard,1,1,1,0,0,0,68,New Client,4329.02
+797,Site Vitrine,6,Premium,0,0,0,0,1,1,48,New Client,3658.24
+798,Landing Page,1,Standard,1,0,0,0,0,0,15,New Client,2990.04
+799,Site Vitrine,13,Premium,1,0,0,1,0,0,88,New Client,3938.55
+800,Site Vitrine,12,Standard,1,0,0,0,0,0,79,New Client,3483.25
+801,Site Vitrine,8,Basic,0,1,1,0,0,0,65,New Client,3791.91
+802,E-commerce,36,Standard,0,1,1,1,0,0,83,New Client,6000
+803,Site Vitrine,7,Basic,1,0,0,0,1,1,49,New Client,3398.27
+804,Site Vitrine,12,Basic,1,0,0,0,0,0,76,New Client,3292.05
+805,E-commerce,18,Standard,0,1,1,0,1,0,20,New Client,5836.77
+806,Landing Page,3,Standard,1,0,0,0,1,1,83,Returning Client,2781.98
+807,Site Vitrine,14,Basic,0,0,0,0,1,1,57,Returning Client,3061.57
+808,E-commerce,37,Standard,0,1,0,0,1,1,69,New Client,5946.24
+809,Site Vitrine,12,Basic,0,0,0,0,0,0,58,Returning Client,2952.91
+810,Landing Page,3,Basic,1,0,0,0,0,0,83,New Client,2399
+811,Landing Page,3,Standard,0,0,0,1,1,1,71,Returning Client,2591.09
+812,Landing Page,1,Basic,1,0,0,1,1,1,36,New Client,2844.6
+813,E-commerce,27,Standard,0,1,0,0,0,0,13,New Client,5662.14
+814,Application Web,19,Standard,0,1,1,0,0,0,79,New Client,6000
+815,Landing Page,1,Standard,1,0,0,0,0,0,51,New Client,2707.88
+816,Site Vitrine,5,Standard,1,0,0,0,1,1,32,New Client,3494.96
+817,Site Vitrine,6,Basic,1,0,0,0,0,0,73,New Client,3082.18
+818,Landing Page,3,Basic,0,0,0,0,0,0,73,New Client,2172.03
+819,Site Vitrine,14,Basic,1,0,0,1,1,0,69,New Client,3382.34
+820,E-commerce,18,Basic,0,1,1,0,0,0,83,New Client,5097.65
+821,Application Web,40,Premium,0,0,0,1,1,1,84,New Client,6000
+822,E-commerce,24,Standard,1,1,1,0,1,1,52,Returning Client,5780.41
+823,E-commerce,36,Basic,1,1,0,0,0,0,86,New Client,5367.52
+824,Landing Page,1,Standard,1,0,0,1,0,0,28,New Client,2991.63
+825,Site Vitrine,8,Basic,1,0,0,0,1,1,58,New Client,3326.65
+826,Landing Page,1,Standard,1,0,0,0,1,1,81,New Client,2778.65
+827,Application Web,34,Standard,1,0,0,0,1,1,27,New Client,5973.31
+828,Landing Page,1,Standard,0,0,0,0,1,1,57,VIP Client,2474.17
+829,Site Vitrine,12,Standard,0,0,0,0,0,0,64,New Client,3285.65
+830,Application Web,30,Standard,1,0,0,0,1,1,82,Returning Client,5569.39
+831,Site Vitrine,13,Basic,1,0,0,0,1,1,55,Returning Client,3214.76
+832,E-commerce,25,Basic,1,1,1,0,0,0,74,New Client,5435.66
+833,Site Vitrine,11,Basic,0,0,0,1,0,0,29,Returning Client,3122.39
+834,E-commerce,10,Standard,0,1,1,0,1,1,52,New Client,5420.03
+835,Site Vitrine,13,Standard,1,0,0,0,0,0,33,New Client,3706.7
+836,E-commerce,12,Basic,0,1,0,0,0,0,76,Returning Client,4198.26
+837,Landing Page,1,Basic,1,0,0,0,0,0,36,New Client,2264.9
+838,Site Vitrine,6,Standard,1,0,0,0,0,0,20,New Client,3384.72
+839,Landing Page,2,Basic,1,0,0,0,1,1,87,New Client,2476.98
+840,Site Vitrine,12,Basic,1,0,0,0,0,0,22,New Client,3405.43
+841,Site Vitrine,12,Basic,0,0,0,1,1,1,59,Returning Client,3266.37
+842,E-commerce,37,Basic,0,1,1,0,0,0,21,New Client,5996.18
+843,E-commerce,22,Standard,1,1,1,0,1,0,38,New Client,6000
+844,Site Vitrine,15,Premium,0,0,0,1,1,1,64,New Client,4310.68
+845,Site Vitrine,9,Standard,1,0,0,0,0,0,23,Returning Client,3346.66
+846,Site Vitrine,15,Standard,1,0,0,0,0,0,53,Returning Client,3288.85
+847,Landing Page,1,Basic,0,0,0,1,0,0,62,New Client,2327.93
+848,Landing Page,2,Standard,1,0,0,0,1,1,45,New Client,3025.49
+849,Site Vitrine,12,Basic,0,0,0,0,1,0,34,New Client,3221.48
+850,E-commerce,23,Basic,1,1,0,0,1,1,32,New Client,5543.49
+851,E-commerce,31,Premium,0,1,1,1,0,0,76,New Client,6000
+852,Landing Page,1,Premium,1,0,0,1,1,1,79,Returning Client,3139.81
+853,Site Vitrine,6,Basic,1,0,0,0,0,0,17,New Client,3329.8
+854,Site Vitrine,6,Standard,1,0,0,0,1,1,8,New Client,4026.32
+855,Site Vitrine,11,Basic,1,0,0,0,1,1,16,New Client,3730.42
+856,Landing Page,3,Basic,1,0,0,0,1,1,34,New Client,2729.17
+857,Site Vitrine,9,Standard,0,0,0,1,0,0,17,New Client,3433.72
+858,E-commerce,29,Standard,0,1,1,0,1,1,62,Returning Client,5640.89
+859,E-commerce,8,Standard,1,1,1,0,1,0,83,New Client,5484.24
+860,Site Vitrine,5,Standard,1,0,0,0,0,0,64,New Client,3151.98
+861,Site Vitrine,15,Standard,0,1,0,0,0,0,79,New Client,3826.96
+862,Site Vitrine,14,Standard,1,0,0,0,1,1,13,Returning Client,3982.51
+863,Site Vitrine,14,Premium,1,0,0,0,0,0,50,New Client,4027.46
+864,Site Vitrine,4,Premium,1,0,0,0,0,0,55,Returning Client,3485.83
+865,Site Vitrine,4,Basic,0,0,0,0,0,0,89,New Client,2679.18
+866,Site Vitrine,8,Basic,0,0,0,0,0,0,10,New Client,3406.04
+867,Landing Page,1,Standard,1,0,0,0,1,1,12,New Client,3479.14
+868,E-commerce,8,Standard,0,1,1,0,1,1,38,New Client,5476.17
+869,E-commerce,27,Basic,0,1,1,1,1,1,69,Returning Client,5212.57
+870,Landing Page,1,Standard,1,0,1,0,1,1,84,New Client,3117.18
+871,Site Vitrine,5,Standard,0,0,0,0,1,1,60,New Client,3512.73
+872,Site Vitrine,9,Standard,0,0,0,0,0,0,9,Returning Client,3397.27
+873,Landing Page,1,Standard,0,0,0,1,1,0,90,Returning Client,2637.48
+874,Landing Page,2,Premium,0,0,0,1,1,0,90,Returning Client,2984.53
+875,Site Vitrine,13,Premium,1,0,0,0,1,1,22,New Client,4461.74
+876,Site Vitrine,13,Standard,1,0,0,0,1,0,34,New Client,3700.09
+877,Site Vitrine,15,Basic,0,0,0,0,1,1,55,New Client,3215.21
+878,E-commerce,24,Basic,1,1,1,0,1,0,12,New Client,5824.77
+879,Landing Page,1,Standard,1,0,0,0,0,0,49,New Client,2599.17
+880,Site Vitrine,8,Basic,1,0,0,0,0,0,18,New Client,3392.17
+881,Application Web,42,Premium,1,0,0,0,1,1,60,New Client,6000
+882,Site Vitrine,5,Premium,0,0,0,1,0,0,49,New Client,3613.66
+883,E-commerce,8,Premium,1,1,1,1,1,1,82,New Client,6000
+884,Site Vitrine,14,Basic,0,0,0,0,1,0,26,Returning Client,3313.61
+885,Site Vitrine,12,Standard,1,0,0,0,0,0,34,New Client,3424.2
+886,E-commerce,30,Basic,0,1,1,0,0,0,10,New Client,5834.81
+887,Landing Page,1,Premium,1,0,0,1,1,1,60,New Client,3658.25
+888,Site Vitrine,9,Standard,0,0,0,1,0,0,51,New Client,3425.82
+889,E-commerce,15,Basic,0,1,1,0,0,0,36,New Client,4967.36
+890,Landing Page,3,Basic,1,0,0,0,0,0,52,New Client,2356.36
+891,Site Vitrine,5,Premium,0,0,0,1,1,1,21,Returning Client,4111.46
+892,Site Vitrine,11,Standard,1,0,0,0,1,1,15,New Client,4327.33
+893,E-commerce,38,Basic,0,1,1,0,1,1,13,New Client,6000
+894,Site Vitrine,5,Basic,0,0,0,1,1,0,31,New Client,3284.42
+895,Site Vitrine,14,Premium,1,0,0,1,0,0,14,New Client,4551.51
+896,Landing Page,2,Premium,1,0,0,1,1,1,16,New Client,3873.21
+897,Landing Page,3,Basic,0,0,0,0,0,0,90,New Client,2138.59
+898,Site Vitrine,14,Standard,0,0,0,1,1,1,88,New Client,3742.23
+899,Landing Page,2,Standard,1,0,0,1,0,0,54,Returning Client,2874.92
+900,Landing Page,3,Standard,1,0,0,1,0,0,23,Returning Client,2956.48
+901,Site Vitrine,7,Standard,1,0,0,0,1,1,83,New Client,3507.99
+902,Landing Page,3,Basic,1,0,0,0,1,1,87,New Client,2474.72
+903,Site Vitrine,12,Standard,0,0,0,1,0,0,84,VIP Client,3065.69
+904,Application Web,50,Premium,0,0,0,1,1,0,88,New Client,6000
+905,E-commerce,31,Standard,0,1,1,0,1,1,12,New Client,6000
+906,Site Vitrine,9,Standard,0,0,0,0,1,0,29,VIP Client,3118.57
+907,Site Vitrine,13,Standard,1,0,0,0,1,1,86,New Client,3638.7
+908,Site Vitrine,7,Basic,1,0,0,0,1,0,33,New Client,3224.06
+909,Landing Page,2,Basic,1,0,0,0,0,0,27,New Client,2589.19
+910,Landing Page,2,Basic,0,0,0,0,0,0,59,New Client,2221.6
+911,Site Vitrine,5,Basic,1,0,0,0,1,1,57,New Client,3271.79
+912,Landing Page,3,Basic,0,0,0,0,0,0,78,Returning Client,2000
+913,E-commerce,35,Standard,1,1,1,1,1,1,76,New Client,6000
+914,Landing Page,2,Standard,1,0,0,1,0,0,49,New Client,2804.41
+915,E-commerce,24,Standard,0,1,1,0,0,0,76,New Client,5669
+916,Landing Page,1,Basic,0,0,0,0,0,0,36,New Client,2081.27
+917,Application Web,23,Standard,1,0,0,1,1,1,86,New Client,6000
+918,Site Vitrine,15,Premium,1,0,1,0,0,0,43,New Client,4117.09
+919,Site Vitrine,4,Basic,0,0,0,0,1,1,79,VIP Client,2637.2
+920,Landing Page,1,Standard,0,0,0,1,1,0,15,Returning Client,3162.6
+921,Site Vitrine,5,Standard,1,0,0,0,1,1,67,New Client,3575.97
+922,E-commerce,32,Standard,1,1,1,0,0,0,35,New Client,6000
+923,E-commerce,9,Standard,0,1,1,1,0,0,68,New Client,5381.76
+924,E-commerce,33,Standard,1,1,0,0,1,1,44,New Client,6000
+925,Site Vitrine,9,Standard,0,0,0,0,1,1,68,New Client,3522.49
+926,Landing Page,2,Basic,0,0,0,1,0,0,14,New Client,2635.98
+927,Site Vitrine,13,Premium,0,0,1,1,1,0,18,New Client,4581.1
+928,Site Vitrine,10,Standard,0,0,0,1,1,1,83,New Client,3719.4
+929,Site Vitrine,10,Standard,0,0,0,1,0,0,12,New Client,3924.71
+930,Site Vitrine,10,Standard,1,0,0,0,1,1,87,Returning Client,3419.86
+931,Site Vitrine,7,Premium,0,0,1,1,1,1,30,New Client,4691.05
+932,E-commerce,39,Standard,0,1,1,0,1,1,56,New Client,5916.27
+933,Site Vitrine,6,Standard,1,0,0,1,1,1,33,New Client,4024.64
+934,Site Vitrine,4,Standard,1,0,0,0,0,0,29,Returning Client,3258.85
+935,E-commerce,28,Standard,0,1,1,0,1,0,75,New Client,5790.17
+936,E-commerce,19,Standard,0,1,1,0,1,0,63,Returning Client,5194.06
+937,Site Vitrine,15,Standard,1,0,0,0,1,0,35,New Client,3827.02
+938,Landing Page,3,Standard,0,0,0,0,0,0,45,New Client,2415.8
+939,Site Vitrine,13,Standard,0,1,1,1,0,0,85,Returning Client,4261.54
+940,Site Vitrine,15,Premium,0,0,0,0,1,1,27,Returning Client,3883.69
+941,Site Vitrine,11,Basic,0,0,0,0,0,0,44,New Client,3123.55
+942,Site Vitrine,5,Standard,0,0,0,0,0,0,19,New Client,3250.36
+943,Site Vitrine,15,Standard,1,0,0,0,1,1,37,New Client,4049.73
+944,E-commerce,24,Standard,1,1,1,1,1,1,18,New Client,6000
+945,Site Vitrine,9,Standard,0,0,0,1,1,1,31,New Client,3557.05
+946,E-commerce,27,Standard,0,1,0,0,1,0,12,New Client,5819.04
+947,Site Vitrine,10,Standard,0,0,0,0,0,0,65,VIP Client,2864.06
+948,E-commerce,19,Basic,0,1,1,0,0,0,15,Returning Client,5242.94
+949,E-commerce,40,Premium,1,1,1,0,0,0,30,New Client,6000
+950,Site Vitrine,6,Premium,1,0,0,1,1,1,84,New Client,4206.68
+951,Landing Page,2,Standard,1,0,0,1,1,1,52,New Client,3177.08
+952,Landing Page,1,Basic,0,0,0,1,1,1,80,New Client,2527.51
+953,Site Vitrine,4,Premium,1,1,1,0,1,1,73,New Client,4944.78
+954,Site Vitrine,14,Basic,1,0,0,0,1,1,73,Returning Client,3116.02
+955,Site Vitrine,14,Standard,1,0,0,0,1,1,44,Returning Client,3576.12
+956,Site Vitrine,14,Standard,0,0,0,1,1,0,44,Returning Client,3575.09
+957,E-commerce,24,Standard,1,1,1,0,0,0,87,New Client,5916.76
+958,Site Vitrine,10,Standard,0,0,0,0,0,0,62,New Client,3046.17
+959,Site Vitrine,11,Standard,0,0,0,1,1,0,24,Returning Client,3407.67
+960,Site Vitrine,11,Standard,1,0,1,0,0,0,17,VIP Client,3664.41
+961,Application Web,20,Standard,1,0,0,1,1,1,45,Returning Client,5381.76
+962,E-commerce,36,Standard,1,1,1,0,0,0,15,Returning Client,6000
+963,Application Web,51,Standard,0,0,0,1,1,0,68,New Client,5944.06
+964,Site Vitrine,11,Standard,0,0,0,0,0,0,87,VIP Client,2779.91
+965,Site Vitrine,11,Standard,0,0,0,1,0,0,36,New Client,3414.48
+966,Landing Page,1,Standard,0,0,0,0,1,1,19,New Client,2692.92
+967,Site Vitrine,8,Premium,1,0,0,1,0,0,73,Returning Client,3777.48
+968,Site Vitrine,10,Premium,1,0,0,0,1,1,87,New Client,4194.14
+969,Site Vitrine,14,Basic,0,0,0,0,1,1,76,VIP Client,2837.47
+970,E-commerce,9,Basic,0,1,1,0,0,0,26,New Client,5193.05
+971,Site Vitrine,10,Premium,1,0,0,1,1,1,90,New Client,4366.86
+972,E-commerce,30,Standard,1,1,1,0,1,1,24,New Client,6000
+973,Site Vitrine,8,Standard,0,0,0,0,0,0,20,New Client,3483.22
+974,Site Vitrine,13,Premium,1,0,0,1,1,1,50,New Client,4440
+975,E-commerce,27,Basic,0,1,0,1,0,0,52,Returning Client,5054.68
+976,Site Vitrine,4,Standard,1,1,1,1,1,1,21,New Client,4913.34
+977,Application Web,56,Basic,1,0,0,1,1,1,11,New Client,6000
+978,Site Vitrine,4,Basic,1,0,0,0,1,1,83,New Client,3054.08
+979,E-commerce,38,Basic,0,1,1,0,1,1,74,New Client,5832.73
+980,Site Vitrine,9,Basic,0,0,0,1,1,1,82,New Client,3404.07
+981,Application Web,26,Standard,0,0,0,1,1,1,86,New Client,5455.6
+982,Site Vitrine,13,Basic,0,1,1,1,1,1,53,New Client,4474.25
+983,Application Web,12,Standard,0,0,0,0,1,1,12,New Client,5512.21
+984,Application Web,23,Standard,0,1,1,0,1,1,57,New Client,6000
+985,E-commerce,31,Basic,0,1,1,1,1,0,81,New Client,5563.51
+986,E-commerce,26,Basic,1,1,1,1,1,1,78,New Client,5843.67
+987,Site Vitrine,4,Premium,0,0,0,0,1,1,70,New Client,3678.91
+988,Site Vitrine,8,Standard,1,0,0,1,1,1,46,New Client,3821.57
+989,Site Vitrine,4,Basic,1,0,0,0,0,0,43,New Client,2916.45
+990,E-commerce,31,Standard,0,1,1,1,1,1,63,New Client,6000
+991,E-commerce,18,Standard,0,1,0,0,1,0,36,Returning Client,5030.52
+992,Site Vitrine,12,Basic,1,0,0,0,1,1,49,New Client,3379.45
+993,Landing Page,3,Premium,0,0,0,0,0,0,70,New Client,2696.89
+994,Site Vitrine,8,Standard,0,0,0,1,0,0,45,New Client,3364.65
+995,Landing Page,3,Standard,0,0,0,0,1,1,27,Returning Client,2782.67
+996,E-commerce,22,Standard,0,1,1,1,0,0,19,Returning Client,5743.17
+997,Site Vitrine,15,Premium,0,0,0,0,1,1,10,Returning Client,4271.64
+998,Site Vitrine,15,Standard,1,1,1,0,0,0,32,Returning Client,4402.74
+999,E-commerce,36,Basic,0,1,1,0,1,1,81,Returning Client,5691.61
+1000,Application Web,25,Premium,1,0,0,0,0,0,34,New Client,6000
