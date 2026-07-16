@@ -1,8 +1,10 @@
 import joblib
 import numpy as np
+from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 
-model=joblib.load("../models/catboost_model.pkl")
+MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "catboost_model.pkl"
+model = joblib.load(MODEL_PATH)
 
 le_type=LabelEncoder()
 le_type.classes_=np.array(["E-commerce","Landing Page","Site Vitrine"])
