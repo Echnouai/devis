@@ -379,7 +379,11 @@ if submitted:
     }
 
     with st.spinner("⚙️ Analyse en cours par l'IA..."):
-        response = requests.post("http://devis.up.railway.app/predict", json=payload)
+        response = requests.post(
+        "https://devis.up.railway.app/predict",
+        json=payload,
+        timeout=30
+        )
 
     if response.status_code == 200:
         result = response.json()
@@ -590,7 +594,10 @@ if "result" in st.session_state:
         if st.button("📋 Afficher l'historique", use_container_width=True):
             with st.spinner("Chargement..."):
                 try:
-                    response_history = requests.get("http://devis.up.railway.app/history", timeout=10)
+                   response_history = requests.get(
+                    "https://devis.up.railway.app/history",
+                    timeout=30
+                  ) 
                 except requests.exceptions.RequestException as e:
                     st.error(f"❌ Impossible de contacter l'API (uvicorn est-il lancé ?) : {e}")
                     response_history = None
