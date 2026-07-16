@@ -1,7 +1,7 @@
 from fastapi import FastAPI
-from schemas import DevisInput,DevisOutput
-from model import predict
-from database import init_db,save_devis
+from .schemas import DevisInput,DevisOutput
+from .model import predict
+from .database import init_db,save_devis
 from groq import Groq
 
 app=FastAPI(title="IA Estimation Devis")
